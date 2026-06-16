@@ -12,9 +12,9 @@ const loadMoreBtn =
         "loadMoreBtn"
     );
 
-let birdsPerPage = 24;
+let birdsPerPage = 12;
 
-let visibleBirds = 24;
+let visibleBirds = 12;
 
 function getStatusClass(status) {
 
@@ -196,7 +196,7 @@ function renderBirdOfDay() {
     const dayNumber =
         Math.floor(
             today.getTime() /
-            (1000 * 60 * 60 * 24)
+            (1000 * 60 * 60 * 12)
         );
 
     const bird =
@@ -465,7 +465,7 @@ function filterBirds() {
                 matchesStatus
             );
         });
-    visibleBirds = 24;
+    visibleBirds = 12;
     renderBirds(filteredBirds);
 
     updateResultCount();
@@ -505,7 +505,7 @@ if (resetSearchBtn) {
 
             filteredBirds = [...birds];
 
-            visibleBirds = 24;
+            visibleBirds = 12;
             
             renderBirds(filteredBirds);
 
