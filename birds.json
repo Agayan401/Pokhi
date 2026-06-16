@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "asian-emerald-dove",
+    "name": "Asian Emerald Dove",
+    "assameseName": " দেও দৰিক",
+    "iucnStatus": "LC",
+    "description": "ID: 23-27 cm. Iridescent emerald-green wings/mantle with vinous-pink underparts and bright red bill. Assam Seasonality: Year-round common resident in dense wet evergreen forests (e.g., Garbhanga). Dimorphism: Male has a prominent white shoulder patch and white/grey eyebrow/forehead; female lacks white shoulder patch and is duller brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "asian-palm-swift",
+    "name": "Asian Palm Swift",
+    "assameseName": "তাল বতাহী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ashy-prinia",
+    "name": "Ashy Prinia",
+    "assameseName": "ধোঁৱাবৰণীয়া নলচুপি চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "asian-pies-starling",
+    "name": "Asian Pies starling",
+    "assameseName": "কাণকুৰিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "asian-barred-owlet",
+    "name": "Asian barred Owlet",
+    "assameseName": "কাল ফেঁচা / কুৰুলী ফেঁচা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "alexandrine-parakeet",
+    "name": "Alexandrine Parakeet",
+    "assameseName": "ৰাজ ভাটৌ",
+    "iucnStatus": "NT",
+    "description": "ID: 56-62 cm (including long tail). Large green parakeet with a massive deep-red bill and prominent maroon-red shoulder patches. Assam Seasonality: Common year-round resident across moist deciduous woodlands and agricultural edges. Dimorphism: Adult male develops a striking black rose-pink neck ring/collar; female lacks the neck ring entirely.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ashy-bulbul",
+    "name": "Ashy Bulbul",
+    "assameseName": " কজলা ফেচুলুকা",
+    "iucnStatus": "LC",
+    "description": "ID: 18-22 cm. Medium-sized songbird with short crest or distinct vent coloring. Assam Seasonality: Very common year-round resident in forests and gardens. Dimorphism: Sexes are identical (monomorphic); juveniles are slightly duller.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ashy-drongo",
+    "name": "Ashy Drongo",
+    "assameseName": "ধোঁৱাবৰণীয়া ফেঁচু",
+    "iucnStatus": "LC",
+    "description": "ID: 25-35 cm. Glossy black plumage with a distinctively forked or modified tail. Assam Seasonality: Year-round resident; conspicuous perching on open branches. Dimorphism: Monomorphic; sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ashy-woodswallow",
+    "name": "Ashy Woodswallow",
+    "assameseName": "বতাহী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "asian-openbil",
+    "name": "Asian Openbil",
+    "assameseName": "শামুকভঙা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ashy-headed-green-pigeon",
+    "name": "Ashy-headed Green Pigeon",
+    "assameseName": "ইটাগুৰীয়া হাইঠা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "asian-emerald-cuckoo",
+    "name": "Asian Emerald Cuckoo",
+    "assameseName": "শিল কপৌ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "asian-koel",
+    "name": "Asian Koel",
+    "assameseName": "কুলি চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "barred-buttonquail",
+    "name": "Barred Buttonquail",
+    "assameseName": " বতা চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-backed-forktail",
+    "name": "Black-backed Forktail",
+    "assameseName": " কেটেপা টিপ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-hooded-oriole",
+    "name": "Black-hooded Oriole",
+    "assameseName": " সখিয়তী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-naped-monarch",
+    "name": "Black-naped Monarch",
+    "assameseName": "ৰাজকোঁৱৰ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-throated-sunbird",
+    "name": "Black-throated Sunbird",
+    "assameseName": "মৌপিয়া",
+    "iucnStatus": "LC",
+    "description": "ID: 10-15 cm. Small, active nectar-feeder with a down-curved bill. Assam Seasonality: Year-round resident, highly active during spring flowering (Feb-May). Dimorphism: Males are brilliantly colored with iridescent metallic plumage; females are dull olive-green/yellowish.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-winged-cuckooshrike",
+    "name": "Black-winged Cuckooshrike",
+    "assameseName": "এৰা-খাঁতী",
+    "iucnStatus": "LC",
+    "description": "ID: 18-25 cm. Hooked carnivorous bill, distinct black eye-mask. Assam Seasonality: Widespread; some are winter visitors (Oct-April). Dimorphism: Males have starker, darker masks; females often show faint scalloping on underparts.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blue-whistling-thrush",
+    "name": "Blue Whistling Thrush",
+    "assameseName": " নীলমতী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blue-eared-barbet",
+    "name": "Blue-eared Barbet",
+    "assameseName": "নীলা কানৰ হেটুলুকা",
+    "iucnStatus": "LC",
+    "description": "ID: 18-30 cm. Chunky green forest bird with a heavy tufted bill and colorful head patterns. Assam Seasonality: Widespread permanent resident; loud repetitive calls in spring/summer. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blue-throated-barbet",
+    "name": "Blue-throated Barbet",
+    "assameseName": " নীলকণ্ঠ হেটুলুকা",
+    "iucnStatus": "LC",
+    "description": "ID: 18-30 cm. Chunky green forest bird with a heavy tufted bill and colorful head patterns. Assam Seasonality: Widespread permanent resident; loud repetitive calls in spring/summer. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blyth-s-paradise-flycatcher",
+    "name": "Blyth's Paradise Flycatcher",
+    "assameseName": "বাৰীসুন্দৰী",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "bar-headed-goose",
+    "name": "Bar-headed Goose",
+    "assameseName": " ধৃতৰাজ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "barred-cuckoo-dove",
+    "name": "Barred Cuckoo Dove",
+    "assameseName": " দেও কপৌ",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-crested-bulbul",
+    "name": "Black-crested Bulbul",
+    "assameseName": " হালধীয়া বুলবুলি",
+    "iucnStatus": "LC",
+    "description": "ID: 18-22 cm. Medium-sized songbird with short crest or distinct vent coloring. Assam Seasonality: Very common year-round resident in forests and gardens. Dimorphism: Sexes are identical (monomorphic); juveniles are slightly duller.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-rumped-flameback",
+    "name": "Black-rumped Flameback",
+    "assameseName": "সোণ বাঢ়ৈটোকা ",
+    "iucnStatus": "LC",
+    "description": "ID: 20-35 cm. Strong chisel-like bill, stiff tail feathers for climbing tree trunks. Assam Seasonality: Permanent forest resident across Assam. Dimorphism: Males typically possess a bright red crown/crest; females have black crowns with white spots or reduced red.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blue-bearded-bee-eater",
+    "name": "Blue-bearded Bee-eater",
+    "assameseName": "নীলাপাখি মৌখোৱা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brown-hawk-owl",
+    "name": "Brown Hawk Owl",
+    "assameseName": "কৌ ফেঁচা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brahmini-kite",
+    "name": "Brahmini Kite",
+    "assameseName": "ধুবুনী চিলনী / ৰঙা চিলনী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "bengal-bushlark",
+    "name": "Bengal Bushlark",
+    "assameseName": "ভৰদ্বাজ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-drongo",
+    "name": "Black Drongo",
+    "assameseName": "ফেঁচু",
+    "iucnStatus": "LC",
+    "description": "ID: 25-35 cm. Glossy black plumage with a distinctively forked or modified tail. Assam Seasonality: Year-round resident; conspicuous perching on open branches. Dimorphism: Monomorphic; sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-kite",
+    "name": "Black Kite",
+    "assameseName": "চিলনী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "baya-weaver",
+    "name": "Baya Weaver",
+    "assameseName": "টোকোৰা চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "bronzed-drongo",
+    "name": "Bronzed Drongo",
+    "assameseName": "মাটীয়া ফেঁচু",
+    "iucnStatus": "LC",
+    "description": "ID: 25-35 cm. Glossy black plumage with a distinctively forked or modified tail. Assam Seasonality: Year-round resident; conspicuous perching on open branches. Dimorphism: Monomorphic; sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "bronzed-winged-jacana",
+    "name": "Bronzed -winged Jacana",
+    "assameseName": "দলপুঙা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-headed-ibis",
+    "name": "Black-headed Ibis",
+    "assameseName": "আকুহী বগ",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-necked-stork",
+    "name": "Black-necked Stork",
+    "assameseName": "তেলীয়া সাৰেং",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "barn-swallow",
+    "name": "Barn Swallow",
+    "assameseName": " তেলটুপী / চাতক",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "bengal-florican",
+    "name": "Bengal Florican",
+    "assameseName": "উলূম'ৰা",
+    "iucnStatus": "CR",
+    "description": "ID: 55-68 cm. Large, long-legged grassland bustard with slender neck. Assam Seasonality: Resident in protected alluvial grasslands (Manas, Kaziranga). Most visible during breeding/display season (March-June). Dimorphism: Breeding male is jet-black with contrasting pure white wing patches; female is buff-brown with heavy dark cryptic mottling.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-capped-kingfisher",
+    "name": "Black capped Kingfisher",
+    "assameseName": "ক'লামূৰীৰা মাছৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 16-35 cm. Large head, long dagger-like bill, short legs. Assam Seasonality: Resident near waterbodies (Deepor Beel, rivers) year-round. Dimorphism: In many species, males have fully black lower mandibles while females have orange/red bases on the lower mandible.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-breasted-parrotbill",
+    "name": "Black breasted parrotbill",
+    "assameseName": "বুতবুত চৰাই / নল-খাগৰি ভাটৌ",
+    "iucnStatus": "VU",
+    "description": "ID: 14-45 cm. Green plumage, strongly hooked red bill, zygodactyl feet. Assam Seasonality: Year-round resident in woodlands and orchards. Dimorphism: Adult males feature distinct neck rings or head patches absent in females.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "bank-myna",
+    "name": "Bank Myna",
+    "assameseName": "গাং শালিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brown-headed-gull",
+    "name": "Brown Headed Gull",
+    "assameseName": "ৰামপৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blue-tailed-bee-eater",
+    "name": "Blue tailed bee eater",
+    "assameseName": "নীলানেজী জিঙাখাতী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-baza",
+    "name": "Black Baza",
+    "assameseName": "ক'লা টিকনী শেন",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blossom-headed-parakeet",
+    "name": "Blossom headed Parakeet",
+    "assameseName": "ৰঙামণি ভাটৌ",
+    "iucnStatus": "NT",
+    "description": "ID: 14-45 cm. Green plumage, strongly hooked red bill, zygodactyl feet. Assam Seasonality: Year-round resident in woodlands and orchards. Dimorphism: Adult males feature distinct neck rings or head patches absent in females.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "bearded-vulture",
+    "name": "Bearded Vulture",
+    "assameseName": "দড়ীয়া শগুন",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brown-hornbill",
+    "name": "Brown Hornbill",
+    "assameseName": "মূগা ধণেশ",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brown-shrike",
+    "name": "Brown Shrike",
+    "assameseName": "মুগা এৰাখাতী",
+    "iucnStatus": "LC",
+    "description": "ID: 18-25 cm. Hooked carnivorous bill, distinct black eye-mask. Assam Seasonality: Widespread; some are winter visitors (Oct-April). Dimorphism: Males have starker, darker masks; females often show faint scalloping on underparts.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-francolin",
+    "name": "Black Francolin",
+    "assameseName": "তিতিৰ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blue-breasted-quail",
+    "name": "Blue-breasted Quail",
+    "assameseName": "মচুৱা বটেৰ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "baers-pochard",
+    "name": "Baers Pochard",
+    "assameseName": "বৰ কলীমূৰী হাঁহ",
+    "iucnStatus": "CR",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "barn-owl",
+    "name": "Barn Owl",
+    "assameseName": "লক্ষ্মী ফেঁচা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brown-fish-owl",
+    "name": "Brown fish Owl",
+    "assameseName": "মছুৱা হুদু",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brown-wood-owl",
+    "name": "Brown Wood Owl",
+    "assameseName": "কাঠ হুদু",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brown-crake",
+    "name": "Brown Crake",
+    "assameseName": "মুগা জিকৰ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-winged-stilt",
+    "name": "Black-winged Stilt",
+    "assameseName": "দীঘলঠেঙীয়া",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-headed-gull",
+    "name": "Black-headed Gull",
+    "assameseName": "কালফোট সাগৰ চিলনী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-crowned-night-heron",
+    "name": "Black-Crowned Night Heron",
+    "assameseName": "ৱাক চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-stork",
+    "name": "Black Stork",
+    "assameseName": "কালশৰ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brown-dipper",
+    "name": "Brown Dipper",
+    "assameseName": "ডুপ্‌ডুপ্‌",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "blue-rock-thrush",
+    "name": "Blue Rock Thrush",
+    "assameseName": "নীলা বনজুৰি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "brahminy-starling",
+    "name": "Brahminy Starling",
+    "assameseName": "বামুণী শালিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-breasted-parrotbill",
+    "name": "Black-breasted parrotbill",
+    "assameseName": "দীঘল-নেজী ভাটৌ ঠোটি",
+    "iucnStatus": "VU",
+    "description": "ID: 19-21 cm. Distinctive reed-dwelling bird with a massive, deep parrot-like bill, bright rufous upperparts, and a large black patch on the breast sides. Assam Seasonality: Highly localized resident in tall, undisturbed grass/reed beds along the Brahmaputra floodplain (e.g., Dibru-Saikhowa). Dimorphism: Sexes look highly similar, but males tend to have a slightly bolder black chest patch and brighter bill coloration.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-bulbul",
+    "name": "Black Bulbul",
+    "assameseName": "ৰঙাঠোটি বুলবুলি",
+    "iucnStatus": "LC",
+    "description": "ID: 18-22 cm. Medium-sized songbird with short crest or distinct vent coloring. Assam Seasonality: Very common year-round resident in forests and gardens. Dimorphism: Sexes are identical (monomorphic); juveniles are slightly duller.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "black-tailed-crake",
+    "name": "Black-tailed Crake",
+    "assameseName": "ক'লা নেজী জিকৰ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "chestnut-munia",
+    "name": "Chestnut Munia",
+    "assameseName": "ক'লামূৰি টুনি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "chestnut-bellied-nuthatch",
+    "name": "Chestnut-bellied Nuthatch",
+    "assameseName": " জেঠী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "chestnut-headed-bee-eater",
+    "name": "Chestnut-headed Bee-eater",
+    "assameseName": " বাদামীমূৰীয়া মৌখোৱা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "chestnut-tailed-starling",
+    "name": "Chestnut-tailed Starling",
+    "assameseName": "কাঠ শালিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-quail",
+    "name": "Common Quail",
+    "assameseName": "বতা চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-snipe",
+    "name": "Common Snipe",
+    "assameseName": "বালিটোকা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-kestrel",
+    "name": "Common Kestrel",
+    "assameseName": "বাকুহি চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-merganser",
+    "name": "Common Merganser",
+    "assameseName": " কঁকিল দড়িয়া হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-myna",
+    "name": "Common Myna",
+    "assameseName": "শালিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-hill-myna",
+    "name": "Common Hill Myna",
+    "assameseName": "মইনা চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "coppersmith-barbet",
+    "name": "Coppersmith Barbet",
+    "assameseName": "হেটুলুকা",
+    "iucnStatus": "LC",
+    "description": "ID: 18-30 cm. Chunky green forest bird with a heavy tufted bill and colorful head patterns. Assam Seasonality: Widespread permanent resident; loud repetitive calls in spring/summer. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-greenshank",
+    "name": "Common Greenshank",
+    "assameseName": "পাত ঠেঙী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-redshank",
+    "name": "Common Redshank",
+    "assameseName": "ৰঙা ঠেঙী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-sandpiper",
+    "name": "Common Sandpiper",
+    "assameseName": "বালিখোচৰাঁ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "cattle-egret",
+    "name": "Cattle Egret",
+    "assameseName": "গো বগ",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-kingfisher",
+    "name": "Common Kingfisher",
+    "assameseName": "সৰু মাছৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 16-35 cm. Large head, long dagger-like bill, short legs. Assam Seasonality: Resident near waterbodies (Deepor Beel, rivers) year-round. Dimorphism: In many species, males have fully black lower mandibles while females have orange/red bases on the lower mandible.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-tailorbird",
+    "name": "Common Tailorbird",
+    "assameseName": "পাতসিয়া চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "cotton-pygmy-goose",
+    "name": "Cotton Pygmy Goose",
+    "assameseName": " কিকি হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "crested-serpent-eagle",
+    "name": "Crested Serpent Eagle",
+    "assameseName": " সাপ কটা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "crimson-sunbird",
+    "name": "Crimson Sunbird",
+    "assameseName": " ৰঙা মৌপিয়া",
+    "iucnStatus": "LC",
+    "description": "ID: 10-15 cm. Small, active nectar-feeder with a down-curved bill. Assam Seasonality: Year-round resident, highly active during spring flowering (Feb-May). Dimorphism: Males are brilliantly colored with iridescent metallic plumage; females are dull olive-green/yellowish.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-hawk-cuckoo",
+    "name": "Common Hawk Cuckoo",
+    "assameseName": "শেন কুলি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-iora",
+    "name": "Common Iora",
+    "assameseName": "বিহুৱতী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "citrine-wagtail",
+    "name": "Citrine Wagtail",
+    "assameseName": "বালিমাহী",
+    "iucnStatus": "LC",
+    "description": "ID: 14-19 cm. Slender terrestrial bird that walks on the ground and constantly pumps its tail. Assam Seasonality: Mostly winter visitors (Oct-April) found in grasslands and riverbanks. Dimorphism: Sexes are largely identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "cinereous-vulture",
+    "name": "Cinereous Vulture",
+    "assameseName": "ক'লা শগুন",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-shelduck",
+    "name": "Common Shelduck",
+    "assameseName": "বগা চাকৈ-চকোৱা",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-teal",
+    "name": "Common Teal",
+    "assameseName": "ঘিলা হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-pochard",
+    "name": "Common Pochard",
+    "assameseName": "গোধাকলী হাঁহ ",
+    "iucnStatus": "VU",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-crane",
+    "name": "Common Crane",
+    "assameseName": "কৰ্চণ চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-coot",
+    "name": "Common Coot",
+    "assameseName": "নল ডেকৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "chinese-pond-heron",
+    "name": "Chinese Pond Heron",
+    "assameseName": "চীনা কণামুচৰি",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "cinnamon-bittern",
+    "name": "Cinnamon Bittern",
+    "assameseName": "ইটাগুৰীয়া",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "chestnut-capped-babbler",
+    "name": "Chestnut-capped Babbler",
+    "assameseName": "টুপীমূৰীয়া ঢাপলিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "common-moorhen",
+    "name": "Common Moorhen",
+    "assameseName": "পানীডাউক ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "dusky-warbler",
+    "name": "Dusky Warbler",
+    "assameseName": "বাৰী-টোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 10-13 cm. Small, active, cryptic insectivore. Assam Seasonality: Mostly winter visitors (October to April) originating from the Himalayas/Siberia. Dimorphism: Sexes are identical in most species; identified mainly by vocalizations.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "dollarbird",
+    "name": "Dollarbird",
+    "assameseName": "নীলা কাও চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasian-tree-sparrow",
+    "name": "Eurasian Tree Sparrow",
+    "assameseName": "বন চিৰিকা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasian-hoopoe",
+    "name": "Eurasian Hoopoe",
+    "assameseName": "ফণিকতৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasin-kestrel",
+    "name": "Eurasin Kestrel",
+    "assameseName": "বাকুহী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasian-coot",
+    "name": "Eurasian Coot",
+    "assameseName": "নল ঢেকৰ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "egyption-vulture",
+    "name": "Egyption Vulture",
+    "assameseName": "মিছৰীয় শগুন",
+    "iucnStatus": "EN",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasian-widgeon",
+    "name": "Eurasian Widgeon",
+    "assameseName": "খেৰী হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasian-collared-dove",
+    "name": "Eurasian Collared Dove",
+    "assameseName": "শ্বেত কপৌ",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasian-curlew",
+    "name": "Eurasian Curlew",
+    "assameseName": "আঁকোৰা ঠুটিয়া",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasian-marsh-harrier",
+    "name": "Eurasian Marsh Harrier",
+    "assameseName": "মছুৱা শেন",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "eurasian-spoonbill",
+    "name": "Eurasian Spoonbill",
+    "assameseName": "খন্তীয়া বগ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ferruginous-flycatcher",
+    "name": "Ferruginous Flycatcher",
+    "assameseName": "ইটা-গুড়িয়া নাচনী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "fukvous-breasted-woodpecker",
+    "name": "Fukvous-breasted Woodpecker",
+    "assameseName": "পখৰা কাঠৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-35 cm. Strong chisel-like bill, stiff tail feathers for climbing tree trunks. Assam Seasonality: Permanent forest resident across Assam. Dimorphism: Males typically possess a bright red crown/crest; females have black crowns with white spots or reduced red.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "fulvous-whistling-duck",
+    "name": "Fulvous Whistling Duck",
+    "assameseName": "বৰ শৰালি",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "falcated-duck",
+    "name": "Falcated Duck",
+    "assameseName": "বিলাতী হাঁহ",
+    "iucnStatus": "NT",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ferruginous-pochard",
+    "name": "Ferruginous Pochard",
+    "assameseName": "বৰকালী হাঁহ",
+    "iucnStatus": "NT",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "fire-tailed-sunbird",
+    "name": "Fire-tailed Sunbird",
+    "assameseName": "জুইনেজী মৌপিয়া",
+    "iucnStatus": "LC",
+    "description": "ID: 10-15 cm. Small, active nectar-feeder with a down-curved bill. Assam Seasonality: Year-round resident, highly active during spring flowering (Feb-May). Dimorphism: Males are brilliantly colored with iridescent metallic plumage; females are dull olive-green/yellowish.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "finn-s-weaver",
+    "name": "Finn's Weaver",
+    "assameseName": "হালধীয়া টোকোৰা চৰাই",
+    "iucnStatus": "EN",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "firethroat",
+    "name": "Firethroat",
+    "assameseName": "অনলকণ্ঠী",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "great-hornbill",
+    "name": "Great Hornbill",
+    "assameseName": "ৰাজ ধনেশ",
+    "iucnStatus": "VU",
+    "description": "ID: 95-130 cm. Massive black-and-white hornbill with a huge yellow-and-black u-shaped casque on the bill. Assam Seasonality: Year-round resident in low-to-mid elevation evergreen forests. Visible year-round; moves locally tracking fruiting figs. Dimorphism: Male has a black iris and black lines on the front of the casque; female is slightly smaller with a striking blood-red iris and no black on the casque front.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "greater-coucal",
+    "name": "Greater Coucal",
+    "assameseName": "বৰ কুকুহা / ডাবহী কুকুহা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "greater-racket-tailed-drongo",
+    "name": "Greater Racket-tailed Drongo",
+    "assameseName": " বৰ ভীমৰাজ",
+    "iucnStatus": "LC",
+    "description": "ID: 25-35 cm. Glossy black plumage with a distinctively forked or modified tail. Assam Seasonality: Year-round resident; conspicuous perching on open branches. Dimorphism: Monomorphic; sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "greater-yellownape",
+    "name": "Greater Yellownape",
+    "assameseName": "বৰ হালধীয়া বাঢ়ৈটোকা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "green-billed-malkoha",
+    "name": "Green-billed Malkoha",
+    "assameseName": "বমূৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "green-imperial-pigeon",
+    "name": "Green Imperial-Pigeon",
+    "assameseName": "পৰঘুমা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-capped-pygmy-woodpecker",
+    "name": "Grey-capped pygmy Woodpecker",
+    "assameseName": "বাঢ়ৈটোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-35 cm. Strong chisel-like bill, stiff tail feathers for climbing tree trunks. Assam Seasonality: Permanent forest resident across Assam. Dimorphism: Males typically possess a bright red crown/crest; females have black crowns with white spots or reduced red.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "gadwall",
+    "name": "Gadwall",
+    "assameseName": "মুগী হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "greylag-goose",
+    "name": "Greylag Goose",
+    "assameseName": "দেও ৰাজহাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-headed-swamphen",
+    "name": "Grey-headed Swamphen",
+    "assameseName": "কাম চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "great-cormorant",
+    "name": "Great Cormorant",
+    "assameseName": "দৈকলা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "green-sandpiper",
+    "name": "Green Sandpiper",
+    "assameseName": "বালি বগোৱা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "greater-adjutant",
+    "name": "Greater Adjutant",
+    "assameseName": "হাড়গিলা",
+    "iucnStatus": "NT",
+    "description": "ID: 145-150 cm. Massive, prehistoric-looking stork with a thick wedge-shaped bill, dark grey upperparts, a naked pinkish head/neck, and a distinctive low-hanging inflatable throat pouch. Assam Seasonality: Resident and localized breeder. Moves around urban landfills (Guwahati) and nesting colonies from September to April. Dimorphism: Sexes are identical in plumage, but males average slightly larger with longer, heavier bills.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-throated-martin",
+    "name": "Grey-throated Martin",
+    "assameseName": "চাতক",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "greenish-warbler",
+    "name": "Greenish Warbler",
+    "assameseName": "টিপচী",
+    "iucnStatus": "LC",
+    "description": "ID: 10-13 cm. Small, active, cryptic insectivore. Assam Seasonality: Mostly winter visitors (October to April) originating from the Himalayas/Siberia. Dimorphism: Sexes are identical in most species; identified mainly by vocalizations.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-nightjar",
+    "name": "Grey Nightjar",
+    "assameseName": "পাত দিনকণা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-peacock-pheasant",
+    "name": "Grey Peacock Pheasant",
+    "assameseName": "কৃষ্ণ ডৰিক",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "great-slaty-woodpecker",
+    "name": "Great Slaty Woodpecker",
+    "assameseName": "বৰছাইয়া বাঢ়ৈটোকা",
+    "iucnStatus": "VU",
+    "description": "ID: 20-35 cm. Strong chisel-like bill, stiff tail feathers for climbing tree trunks. Assam Seasonality: Permanent forest resident across Assam. Dimorphism: Males typically possess a bright red crown/crest; females have black crowns with white spots or reduced red.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "golden-headed-cisticola",
+    "name": "Golden headed Cisticola",
+    "assameseName": "টিক-টিক চৰাই / বিচনীনেজী চট্‌চটী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "great-myna",
+    "name": "Great Myna",
+    "assameseName": "বৰ শালিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "gloosy-ibis",
+    "name": "Gloosy Ibis",
+    "assameseName": "কৃষ্ণ আকুহি বগ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-headed-canary-flycatcher",
+    "name": "Grey-headed Canary-flycatcher",
+    "assameseName": "বাৰী নাচনী",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-hooded-warbler",
+    "name": "Grey-hooded Warbler",
+    "assameseName": " টিপচী",
+    "iucnStatus": "LC",
+    "description": "ID: 10-13 cm. Small, active, cryptic insectivore. Assam Seasonality: Mostly winter visitors (October to April) originating from the Himalayas/Siberia. Dimorphism: Sexes are identical in most species; identified mainly by vocalizations.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "golden-fronted-leafbird",
+    "name": "Golden-fronted Leafbird",
+    "assameseName": "সোণ- কলালী পাত চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-heron",
+    "name": "Grey Heron",
+    "assameseName": " হালখেদা",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-backed-shrike",
+    "name": "Grey-backed Shrike",
+    "assameseName": "কচাই চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 18-25 cm. Hooked carnivorous bill, distinct black eye-mask. Assam Seasonality: Widespread; some are winter visitors (Oct-April). Dimorphism: Males have starker, darker masks; females often show faint scalloping on underparts.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "garganey",
+    "name": "Garganey",
+    "assameseName": "কাজলবুলীয়া",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-headed-woodpecker",
+    "name": "Grey-headed Woodpecker",
+    "assameseName": "মটিয়া কাঠৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-35 cm. Strong chisel-like bill, stiff tail feathers for climbing tree trunks. Assam Seasonality: Permanent forest resident across Assam. Dimorphism: Males typically possess a bright red crown/crest; females have black crowns with white spots or reduced red.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "greater-flameback",
+    "name": "Greater Flameback",
+    "assameseName": "বৰ সোণ বাঢ়ৈটোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-35 cm. Strong chisel-like bill, stiff tail feathers for climbing tree trunks. Assam Seasonality: Permanent forest resident across Assam. Dimorphism: Males typically possess a bright red crown/crest; females have black crowns with white spots or reduced red.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-headed-parakeet",
+    "name": "Grey-headed Parakeet",
+    "assameseName": "ছাইমণি ভাটৌ",
+    "iucnStatus": "NT",
+    "description": "ID: 14-45 cm. Green plumage, strongly hooked red bill, zygodactyl feet. Assam Seasonality: Year-round resident in woodlands and orchards. Dimorphism: Adult males feature distinct neck rings or head patches absent in females.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-headed-lapwing",
+    "name": "Grey-headed Lapwing",
+    "assameseName": "দলঘোঁৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "great-crested-grebe",
+    "name": "Great-crested Grebe",
+    "assameseName": "বৰ ডুবি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "great-egret",
+    "name": "Great Egret",
+    "assameseName": "বৰ বগ",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "greater-necklaced-laughingthrush",
+    "name": "Greater-Necklaced Laughingthrush",
+    "assameseName": "বৈৰাগী হাঁহিয়তী",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "great-white-pelican",
+    "name": "Great White Pelican",
+    "assameseName": "বৰ বগী ভেলা ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "grey-backed-shrike",
+    "name": "Grey-backed Shrike",
+    "assameseName": "বাঘ চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 18-25 cm. Hooked carnivorous bill, distinct black eye-mask. Assam Seasonality: Widespread; some are winter visitors (Oct-April). Dimorphism: Males have starker, darker masks; females often show faint scalloping on underparts.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "hair-crested-drongo",
+    "name": "Hair-crested Drongo",
+    "assameseName": " কেশৰাজ",
+    "iucnStatus": "LC",
+    "description": "ID: 25-35 cm. Glossy black plumage with a distinctively forked or modified tail. Assam Seasonality: Year-round resident; conspicuous perching on open branches. Dimorphism: Monomorphic; sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "house-crow",
+    "name": "House Crow",
+    "assameseName": "পতি কাউৰী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "house-sparrow",
+    "name": "House Sparrow",
+    "assameseName": "ঘৰচিৰিকা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "house-swift",
+    "name": "House Swift",
+    "assameseName": "ঘৰ বতাহী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "hen-harrier",
+    "name": "Hen Harrier",
+    "assameseName": "শেন",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "himalayan-griffon-vulture",
+    "name": "Himalayan griffon Vulture",
+    "assameseName": "জপৰা শগুণ / হিমালয়ৰ শগুন ",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-vulture",
+    "name": "Indian Vulture",
+    "assameseName": "ভাৰতীয় শগুন",
+    "iucnStatus": "CR",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-white-eye",
+    "name": "Indian White-eye",
+    "assameseName": "বগা চকুৱা টিপচী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-pied-starling",
+    "name": "Indian Pied Starling",
+    "assameseName": "কানকুৰিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-cuckoo",
+    "name": "Indian Cuckoo",
+    "assameseName": "কেতেকী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-pond-heron",
+    "name": "Indian Pond Heron",
+    "assameseName": "কণামুচৰি",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-spot-billed-duck",
+    "name": "Indian Spot-billed Duck",
+    "assameseName": "ঢেৰা / ভেলা",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indochinese-roller",
+    "name": "Indochinese Roller",
+    "assameseName": "নীলকণ্ঠী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-peafowl",
+    "name": "Indian Peafowl",
+    "assameseName": "ম'ৰা চৰাই / ময়ুৰ",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-cormorent",
+    "name": "Indian Cormorent",
+    "assameseName": "কৈলাঙী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "intermediate-egret",
+    "name": "Intermediate Egret",
+    "assameseName": "মাজু বগ",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "indian-grassbird",
+    "name": "Indian Grassbird",
+    "assameseName": "চেকচেকী টিপচী",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "jerdon-s-bushchat",
+    "name": "Jerdon's Bushchat",
+    "assameseName": "ৰূপহী চমকা চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "jerdon-s-babbler",
+    "name": "Jerdon's Babbler",
+    "assameseName": "মুগী কাহুক",
+    "iucnStatus": "VU",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "jungle-myna",
+    "name": "Jungle Myna",
+    "assameseName": " চুতীয়া শালিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-25 cm. Robust, highly vocal omnivorous bird with sturdy yellow or pale legs. Assam Seasonality: Very common permanent resident across all habitats. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "jungle-babbler",
+    "name": "Jungle Babbler",
+    "assameseName": "সাতভনী",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "jack-snipe",
+    "name": "Jack Snipe",
+    "assameseName": "ভুৰুং চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "kalij-pheasant",
+    "name": "Kalij Pheasant",
+    "assameseName": " দেও দৰিক",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "large-niltava",
+    "name": "Large Niltava",
+    "assameseName": "নীলমণি",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "large-billed-crow",
+    "name": "Large-billed Crow",
+    "assameseName": "ঢোৰা কাউৰী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "large-cuckooshrike",
+    "name": "Large Cuckooshrike",
+    "assameseName": "কুলী এৰাখাটি",
+    "iucnStatus": "LC",
+    "description": "ID: 18-25 cm. Hooked carnivorous bill, distinct black eye-mask. Assam Seasonality: Widespread; some are winter visitors (Oct-April). Dimorphism: Males have starker, darker masks; females often show faint scalloping on underparts.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "large-tailed-nightjar",
+    "name": "Large-tailed Nightjar",
+    "assameseName": " বৰ দিনকণা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "lesser-yellownape",
+    "name": "Lesser Yellownape",
+    "assameseName": " সৰু হালধীয়া বাঢ়ৈটোকা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "little-pied-flycatcher",
+    "name": "Little Pied Flycatcher",
+    "assameseName": "পখৰা নাচনী / এধানি নাচনী",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "lesser-adjutant-stork",
+    "name": "Lesser Adjutant Stork",
+    "assameseName": "বৰটোকোলা",
+    "iucnStatus": "VU",
+    "description": "ID: 110-120 cm. Large stork with a glossy black back and white underparts. Lacks the hanging throat pouch of the Greater Adjutant; neck is mostly naked yellowish-orange. Assam Seasonality: Widespread year-round resident in wetlands, rivers, and agricultural fields. Dimorphism: Monomorphic in plumage; males can be distinguished primarily by their slightly larger stature and thicker bill base.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "lesser-coucal",
+    "name": "Lesser Coucal",
+    "assameseName": "উলূ কুকুহা / পাতি কুকুহা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "lesser-racket-tailed-drongo",
+    "name": "Lesser Racket-tailed Drongo",
+    "assameseName": " ভীমৰাজ",
+    "iucnStatus": "LC",
+    "description": "ID: 25-35 cm. Glossy black plumage with a distinctively forked or modified tail. Assam Seasonality: Year-round resident; conspicuous perching on open branches. Dimorphism: Monomorphic; sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "lineated-barbet",
+    "name": "Lineated Barbet",
+    "assameseName": "ঘং কুলুং",
+    "iucnStatus": "LC",
+    "description": "ID: 18-30 cm. Chunky green forest bird with a heavy tufted bill and colorful head patterns. Assam Seasonality: Widespread permanent resident; loud repetitive calls in spring/summer. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "little-spiderhunter",
+    "name": "Little Spiderhunter",
+    "assameseName": "সৰু মকৰা খোৱা/ মকৰা খাঁতী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "long-tailed-shrike",
+    "name": "Long-tailed Shrike",
+    "assameseName": "দীঘলনেজী এৰাখাতী",
+    "iucnStatus": "LC",
+    "description": "ID: 18-25 cm. Hooked carnivorous bill, distinct black eye-mask. Assam Seasonality: Widespread; some are winter visitors (Oct-April). Dimorphism: Males have starker, darker masks; females often show faint scalloping on underparts.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "lesser-whistling-duck",
+    "name": "Lesser Whistling-Duck",
+    "assameseName": "শৰালি হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "little-grebe",
+    "name": "Little Grebe",
+    "assameseName": "পানীডুবি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "little-egret",
+    "name": "Little Egret",
+    "assameseName": "পানী বগলী / বামুণ বগলী",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "little-cormorant",
+    "name": "Little Cormorant",
+    "assameseName": "পানী কাউৰী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "little-ringed-plover",
+    "name": "Little Ringed Plover",
+    "assameseName": "লৰিয়লি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "little-heron",
+    "name": "Little Heron",
+    "assameseName": "সৰু মুচৰি",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "mallard",
+    "name": "Mallard",
+    "assameseName": "আমৰলীয়া / বনৰীয়া পাতি হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "mountain-imperial-pigeon",
+    "name": "Mountain Imperial Pigeon",
+    "assameseName": "পাহাৰী পৰঘুমা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "mandarin-duck",
+    "name": "Mandarin Duck",
+    "assameseName": "বিলাতী ৰূপহী হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "mountain-scops-owl",
+    "name": "Mountain Scops Owl",
+    "assameseName": "পাহাৰী নিউ ফেঁচা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "masked-finfoot",
+    "name": "Masked Finfoot",
+    "assameseName": "বন ঢেকৰ",
+    "iucnStatus": "EN",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "marsh-sandpipier",
+    "name": "Marsh Sandpipier",
+    "assameseName": "বোকাপানী খোঁচৰা / লৰীয়তী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "marsh-babbler",
+    "name": "Marsh Babbler",
+    "assameseName": "পানিটুকী চৰাই / লাজুকী ঢাপলিকা",
+    "iucnStatus": "VU",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "malayan-night-heron",
+    "name": "Malayan Night-heron",
+    "assameseName": "ৰাজ বগ",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "nepal-fulvetta",
+    "name": "Nepal Fulvetta",
+    "assameseName": "নেপালি ফালভেটা চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "northen-shoveler",
+    "name": "Northen Shoveler",
+    "assameseName": "খন্তীয়া হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "northern-pintail",
+    "name": "Northern Pintail",
+    "assameseName": "জোঙা নেজী হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "northern-lapwing",
+    "name": "Northern Lapwing",
+    "assameseName": "টেটাটুৱা / টিকনী বালিঘোৰা ",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "olive-backed-pipit",
+    "name": "Olive-backed Pipit",
+    "assameseName": " মাটিমাহী / কেঁচুখাটী",
+    "iucnStatus": "LC",
+    "description": "ID: 14-19 cm. Slender terrestrial bird that walks on the ground and constantly pumps its tail. Assam Seasonality: Mostly winter visitors (Oct-April) found in grasslands and riverbanks. Dimorphism: Sexes are largely identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "orange-bellied-leafbird",
+    "name": "Orange-bellied Leafbird",
+    "assameseName": "কমলা পেট চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "orange-headed-thrush",
+    "name": "Orange-headed Thrush",
+    "assameseName": "কমলামূৰীয়া মাটি কতৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "oriental-pied-hornbill",
+    "name": "Oriental Pied Hornbill",
+    "assameseName": "পাকৈঢোঁৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "oriental-scops-owl",
+    "name": "Oriental Scops Owl",
+    "assameseName": " নিউ ফেঁচা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "oriental-magpie-robin",
+    "name": "Oriental Magpie Robin",
+    "assameseName": "দহিকতৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "oriental-skylark",
+    "name": "Oriental Skylark",
+    "assameseName": "পিয়ঁতী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "oriental-turtle-dove",
+    "name": "Oriental Turtle Dove",
+    "assameseName": "শন কপৌ",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "oriental-darter",
+    "name": "Oriental Darter",
+    "assameseName": " মণিয়ৰী",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "oriental-honey-buzzard",
+    "name": "Oriental Honey Buzzard",
+    "assameseName": " মৌখাপ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "osprey",
+    "name": "Osprey",
+    "assameseName": "চিল কুৰুৱা / পানী কুৰুৱা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "orange-breasted-green-pigeon",
+    "name": "Orange-breasted Green Pigeon",
+    "assameseName": "কমলা-বুকু হাইঠা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "paddyfield-pipit",
+    "name": "Paddyfield Pipit",
+    "assameseName": "মাটিমাহী",
+    "iucnStatus": "LC",
+    "description": "ID: 14-19 cm. Slender terrestrial bird that walks on the ground and constantly pumps its tail. Assam Seasonality: Mostly winter visitors (Oct-April) found in grasslands and riverbanks. Dimorphism: Sexes are largely identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "painted-stork",
+    "name": "Painted Stork",
+    "assameseName": "ৰূপহী সাৰেং ",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "peregrine-falcon",
+    "name": "Peregrine falcon",
+    "assameseName": "শেন / পাহাৰী শেন",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pied-falconet",
+    "name": "Pied Falconet",
+    "assameseName": "পখৰা শেন",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pied-harrier",
+    "name": "Pied Harrier",
+    "assameseName": "পখৰা মছুৱা শেন",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pin-striped-tit-babbler",
+    "name": "Pin-striped Tit Babbler",
+    "assameseName": "হালধি বুকুৱা ঢাপলিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pin-tailed-green-pigeon",
+    "name": "Pin-tailed Green Pigeon",
+    "assameseName": "দীঘল নেজী হাইঠা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "plain-prinia",
+    "name": "Plain Prinia",
+    "assameseName": "নলচুপি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pallas-s-fish-eagle",
+    "name": "Pallas's Fish -Eagle",
+    "assameseName": "কুৰুৱা",
+    "iucnStatus": "EN",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pheasant-tailed-jacana",
+    "name": "Pheasant-tailed Jacana",
+    "assameseName": "দলম'ৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pied-kingfisher",
+    "name": "Pied Kingfisher",
+    "assameseName": "পখৰা মাছৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 16-35 cm. Large head, long dagger-like bill, short legs. Assam Seasonality: Resident near waterbodies (Deepor Beel, rivers) year-round. Dimorphism: In many species, males have fully black lower mandibles while females have orange/red bases on the lower mandible.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "puff-throated-babbler",
+    "name": "Puff-throated Babbler",
+    "assameseName": " খুপটী",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "plae-headed-woodpecker",
+    "name": "Plae-headed Woodpecker",
+    "assameseName": "ছাইমূৰী বঢ়ৈটোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-35 cm. Strong chisel-like bill, stiff tail feathers for climbing tree trunks. Assam Seasonality: Permanent forest resident across Assam. Dimorphism: Males typically possess a bright red crown/crest; females have black crowns with white spots or reduced red.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pied-cuckoo",
+    "name": "Pied Cuckoo",
+    "assameseName": "পিউ কাঁহা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pale-capped-pigeon",
+    "name": "Pale-Capped Pigeon",
+    "assameseName": "বনৰীয়া পাৰ/  লালী পৰঘূমা",
+    "iucnStatus": "VU",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "plantive-cuckoo",
+    "name": "Plantive Cuckoo",
+    "assameseName": "মামৰ পেটীয়া",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pintail-snipe",
+    "name": "Pintail Snipe",
+    "assameseName": "চোহা চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pied-avocet",
+    "name": "Pied Avocet",
+    "assameseName": "ওপৰঠুটিয়া বগ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pacific-golden-plover",
+    "name": "Pacific Golden Plover",
+    "assameseName": "সোণালী লৰিয়লী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "purple-heron",
+    "name": "Purple Heron",
+    "assameseName": " আজান চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "pallas-s-gull",
+    "name": "Pallas's Gull",
+    "assameseName": "সাগৰ চিলনী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "plumbeous-redstart",
+    "name": "Plumbeous Redstart",
+    "assameseName": "নেজ নাচনী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "plain-flowerpecker",
+    "name": "Plain Flowerpecker",
+    "assameseName": "ফুলঠোকৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "purple-sunbird",
+    "name": "Purple Sunbird",
+    "assameseName": "মৌপিয়া",
+    "iucnStatus": "LC",
+    "description": "ID: 10-15 cm. Small, active nectar-feeder with a down-curved bill. Assam Seasonality: Year-round resident, highly active during spring flowering (Feb-May). Dimorphism: Males are brilliantly colored with iridescent metallic plumage; females are dull olive-green/yellowish.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-heade-falcon",
+    "name": "Red heade Falcon",
+    "assameseName": "ৰঙামূৰীয়া শেন",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-vented-bulbul",
+    "name": "Red vented Bulbul",
+    "assameseName": "ফেচুলুকা",
+    "iucnStatus": "LC",
+    "description": "ID: 18-22 cm. Medium-sized songbird with short crest or distinct vent coloring. Assam Seasonality: Very common year-round resident in forests and gardens. Dimorphism: Sexes are identical (monomorphic); juveniles are slightly duller.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-whiskered-bulbul",
+    "name": "Red whiskered Bulbul",
+    "assameseName": "বুলবুল",
+    "iucnStatus": "LC",
+    "description": "ID: 18-22 cm. Medium-sized songbird with short crest or distinct vent coloring. Assam Seasonality: Very common year-round resident in forests and gardens. Dimorphism: Sexes are identical (monomorphic); juveniles are slightly duller.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-avadavat",
+    "name": "Red Avadavat",
+    "assameseName": "ৰঙা টুনি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "rose-ringed-parakeet",
+    "name": "Rose ringed Parakeet",
+    "assameseName": "গলমণিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 14-45 cm. Green plumage, strongly hooked red bill, zygodactyl feet. Assam Seasonality: Year-round resident in woodlands and orchards. Dimorphism: Adult males feature distinct neck rings or head patches absent in females.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-junglefowl",
+    "name": "Red Junglefowl",
+    "assameseName": " বন কুকুৰা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-headed-vulture",
+    "name": "Red headed Vulture",
+    "assameseName": "ৰজা শগুন",
+    "iucnStatus": "CR",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-headed-trogon",
+    "name": "Red-headed Trogon",
+    "assameseName": " কাঠনি বোৱাৰী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "rock-pigeon",
+    "name": "Rock Pigeon",
+    "assameseName": "পাৰ চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "rufous-treepie",
+    "name": "Rufous Treepie",
+    "assameseName": "চেক-চেকী / কোকলোঙা / কলখাটী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "rufous-woodpeacker",
+    "name": "Rufous Woodpeacker",
+    "assameseName": "মুগা কাঠৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "river-tern",
+    "name": "River Tern",
+    "assameseName": "গঙা চিলনী",
+    "iucnStatus": "VU",
+    "description": "ID: 38-43 cm. Sleek riverine bird with a long deeply forked tail, pale grey upperparts, white underparts, a bright yellow bill, and a jet-black cap. Assam Seasonality: Common resident along large rivers (Brahmaputra). Most active and visible on sandbars during winter low-flow months (November-April). Dimorphism: Sexes are identical in appearance; during non-breeding winter plumage, the black cap becomes mottled white.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "river-lapwing",
+    "name": "River Lapwing",
+    "assameseName": "শিল-ঘোঁৰা / কাঁচিয়লি",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-walttled-lapwing",
+    "name": "Red-walttled Lapwing",
+    "assameseName": "বালি-ঘোঁৰা / টিটি হুঁট",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ruddy-kingfisher",
+    "name": "Ruddy Kingfisher",
+    "assameseName": "ৰঙচুৱা মাছৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 16-35 cm. Large head, long dagger-like bill, short legs. Assam Seasonality: Resident near waterbodies (Deepor Beel, rivers) year-round. Dimorphism: In many species, males have fully black lower mandibles while females have orange/red bases on the lower mandible.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ruddy-breasted-crake",
+    "name": "Ruddy-breasted Crake",
+    "assameseName": "জিকৰ / ৰঙা জিকৰ ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-collared-dove",
+    "name": "Red Collared Dove",
+    "assameseName": "হাৰুৱা কপৌ /  মাটি কপৌ",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-breasted-parakeet",
+    "name": "Red-breasted Parakeet",
+    "assameseName": "গলপোৰা ভাটৌ",
+    "iucnStatus": "NT",
+    "description": "ID: 14-45 cm. Green plumage, strongly hooked red bill, zygodactyl feet. Assam Seasonality: Year-round resident in woodlands and orchards. Dimorphism: Adult males feature distinct neck rings or head patches absent in females.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ruddy-shelduck",
+    "name": "Ruddy Shelduck",
+    "assameseName": " চাকৈ-চকোৱা",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-crested-pochard",
+    "name": "Red-Crested Pochard",
+    "assameseName": "ৰঙামূৰী হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Winter visitor (Oct-March) arriving at wetlands like Maguri Beel. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "red-throated-flycatcher",
+    "name": "Red-throated Flycatcher",
+    "assameseName": "গলমণিকা নাচনী",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "rufous-necked-laughingthrush",
+    "name": "Rufous- Necked Laughingthrush",
+    "assameseName": "গলমনিকা হাঁহিয়তী",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "ruby-cheeked-sunbird",
+    "name": "Ruby-cheeked Sunbird",
+    "assameseName": "মৌপিয়া",
+    "iucnStatus": "LC",
+    "description": "ID: 10-15 cm. Small, active nectar-feeder with a down-curved bill. Assam Seasonality: Year-round resident, highly active during spring flowering (Feb-May). Dimorphism: Males are brilliantly colored with iridescent metallic plumage; females are dull olive-green/yellowish.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "scarlet-backed-flowerpecker",
+    "name": "Scarlet-backed Flowerpecker",
+    "assameseName": "ফুলঠোকৰা/ ফুলকুঁৱৰী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "small-niltava",
+    "name": "Small Niltava",
+    "assameseName": "সৰু নীলমণি",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "speckled-piculet",
+    "name": "Speckled Piculet",
+    "assameseName": "ঘিলা কাঠৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "shikra",
+    "name": "Shikra",
+    "assameseName": "বীৰ শেন",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "spotted-dove",
+    "name": "Spotted Dove",
+    "assameseName": "তিল কপৌ",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "stork-billed-kingfisher",
+    "name": "Stork billed Kingfisher",
+    "assameseName": "বৰঠুটিয়া মাছৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 16-35 cm. Large head, long dagger-like bill, short legs. Assam Seasonality: Resident near waterbodies (Deepor Beel, rivers) year-round. Dimorphism: In many species, males have fully black lower mandibles while females have orange/red bases on the lower mandible.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "straited-babbler",
+    "name": "Straited Babbler",
+    "assameseName": "ঢাপলিকা চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "siberian-stonchat",
+    "name": "Siberian Stonchat",
+    "assameseName": "শিলকতৰা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "small-pratincole",
+    "name": "Small Pratincole",
+    "assameseName": "টীটীয়লী / সৰু বলিসংখ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "siberian-rubythroat",
+    "name": "Siberian Rubythroat",
+    "assameseName": "তেজ টিপ্‌",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "slender-billed-vulture",
+    "name": "Slender-billed Vulture",
+    "assameseName": "তামুলীয়া শগুন / লাহী ঠোঁটিয়া শগুন",
+    "iucnStatus": "CR",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "steppe-eagle",
+    "name": "Steppe Eagle",
+    "assameseName": "সৰু নীলমণি",
+    "iucnStatus": "EN",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "streaked-spiderhunter",
+    "name": "Streaked Spiderhunter",
+    "assameseName": "মকৰা খোৱা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "scarlet-minivet",
+    "name": "Scarlet Minivet",
+    "assameseName": " ৰূপহী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "scaly-breasted-munia",
+    "name": "Scaly-breasted Munia",
+    "assameseName": "ফুটুকী টুনি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "spotted-owlert",
+    "name": "Spotted Owlert",
+    "assameseName": "ফুটুকী ফেঁচা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "spot-bellied-eagle-owl",
+    "name": "Spot-bellied Eagle Owl",
+    "assameseName": "যম ডাকিনী / দুধকুশী হুদু",
+    "iucnStatus": "LC",
+    "description": "ID: 15-50 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Assam Seasonality: Permanent nocturnal resident. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "spot-billed-pelican",
+    "name": "Spot-billed Pelican",
+    "assameseName": "ঢেৰা / ভেলা",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "short-billed-minivet",
+    "name": "Short-billed Minivet",
+    "assameseName": "ৰূপহী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "sultan-tit",
+    "name": "Sultan Tit",
+    "assameseName": "মুকুট পিন্ধা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "swamp-fracolin",
+    "name": "Swamp fracolin",
+    "assameseName": "হঁয়কলী",
+    "iucnStatus": "VU",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "spot-billed-duck",
+    "name": "Spot-Billed Duck",
+    "assameseName": "ফুটুকী হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "sarus-crane",
+    "name": "Sarus Crane",
+    "assameseName": "খোৰচেং",
+    "iucnStatus": "VU",
+    "description": "ID: 152-156 cm. The world's tallest flying bird; overall light grey body with a stark, naked red head and upper neck, and long pink legs. Assam Seasonality: Rare resident/local migrant in open wetlands and agricultural fields. Dimorphism: Plumage is identical; males are noticeably taller and heavier than females.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "slaty-legged-crake",
+    "name": "Slaty-legged Crake",
+    "assameseName": "পানী জিকৰ",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "striated-bulbul",
+    "name": "Striated Bulbul",
+    "assameseName": "পাহাৰী বুলবুলি",
+    "iucnStatus": "LC",
+    "description": "ID: 18-22 cm. Medium-sized songbird with short crest or distinct vent coloring. Assam Seasonality: Very common year-round resident in forests and gardens. Dimorphism: Sexes are identical (monomorphic); juveniles are slightly duller.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "striated-prinia",
+    "name": "Striated Prinia",
+    "assameseName": "চি্‌পচি্‌প",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "silver-eared-mesia",
+    "name": "Silver-eared Mesia",
+    "assameseName": "ৰূপালী মেচিয়া",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "slaty-blue-flycatcher",
+    "name": "Slaty-blue Flycatcher",
+    "assameseName": " নীলা নাচনী ",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "slender-billed-babblert",
+    "name": "Slender billed Babblert",
+    "assameseName": "নল ঢাপলিকা",
+    "iucnStatus": "VU",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "swamp-grass-babbler",
+    "name": "Swamp Grass Babbler",
+    "assameseName": "কহুৱাৰ নলচুপি-ঢাপলিকা",
+    "iucnStatus": "EN",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "taiga-flycatcher",
+    "name": "Taiga Flycatcher",
+    "assameseName": "মাখিয়তী",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "tickell-s-leaf-warbler",
+    "name": "Tickell's Leaf Warbler",
+    "assameseName": "টিপচী",
+    "iucnStatus": "LC",
+    "description": "ID: 10-13 cm. Small, active, cryptic insectivore. Assam Seasonality: Mostly winter visitors (October to April) originating from the Himalayas/Siberia. Dimorphism: Sexes are identical in most species; identified mainly by vocalizations.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "thick-billed-green-pigeon",
+    "name": "Thick-billed Green Pigeon",
+    "assameseName": " বৰ হাইঠা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "tufted-duck",
+    "name": "Tufted Duck",
+    "assameseName": "টিকনি হাঁহ",
+    "iucnStatus": "LC",
+    "description": "ID: 35-70 cm. Aquatic waterfowl with webbed feet and a flattened bill. Assam Seasonality: Year-round resident on inland water bodies. Dimorphism: Strongly dimorphic in breeding season; males display bright ornamental plumage, females are cryptically mottled brown.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "velvet-fronted-nuthatch",
+    "name": "Velvet-fronted Nuthatch",
+    "assameseName": "নীলা জেঠী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "verditer-flycatcher",
+    "name": "Verditer Flycatcher",
+    "assameseName": "নীলা নাচনী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: 12-18 cm. Small upright-perching insectivore that sally-catches flies. Assam Seasonality: Mix of altitudinal summer breeders and winter migrants. Dimorphism: Strikingly dimorphic; males are brightly colored (blue, orange, or white), females are dull brown/grey.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "vernal-hanging-parrot",
+    "name": "Vernal Hanging Parrot",
+    "assameseName": "ভাটৌ",
+    "iucnStatus": "LC",
+    "description": "ID: 14-45 cm. Green plumage, strongly hooked red bill, zygodactyl feet. Assam Seasonality: Year-round resident in woodlands and orchards. Dimorphism: Adult males feature distinct neck rings or head patches absent in females.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "velvent-fronted-nuthatch",
+    "name": "Velvent-fronted Nuthatch",
+    "assameseName": "নীলা জেঠী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-crested-laughingthrush",
+    "name": "White-crested Laughingthrush",
+    "assameseName": "বগামূৰীয়া হাঁহিয়তী",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-throated-fantail",
+    "name": "White-throated Fantail",
+    "assameseName": " নাচনী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-rumped-shama",
+    "name": "White-rumped Shama",
+    "assameseName": "খোলাকটি / শ্যামা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-breasted-waterhen",
+    "name": "White-breasted Waterhen",
+    "assameseName": "ডাউক",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-rumped-vulture",
+    "name": "White-rumped Vulture",
+    "assameseName": "পাতি শগুন",
+    "iucnStatus": "CR",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "woolly-necked-stork",
+    "name": "Woolly-necked Stork",
+    "assameseName": " কণুৱা",
+    "iucnStatus": "NT",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "western-hooded-pitta",
+    "name": "Western Hooded Pitta",
+    "assameseName": "বাঁহতলি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-wagtail",
+    "name": "White Wagtail",
+    "assameseName": " বগা বালিমাহী",
+    "iucnStatus": "LC",
+    "description": "ID: 14-19 cm. Slender terrestrial bird that walks on the ground and constantly pumps its tail. Assam Seasonality: Mostly winter visitors (Oct-April) found in grasslands and riverbanks. Dimorphism: Sexes are largely identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-browed-piculet",
+    "name": "White-browed Piculet",
+    "assameseName": "ঘিলা কাঠৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-spectacled-warbler",
+    "name": "White-spectacled Warbler",
+    "assameseName": "টিপচী / বগা চকুৱা চটচটী",
+    "iucnStatus": "LC",
+    "description": "ID: 10-13 cm. Small, active, cryptic insectivore. Assam Seasonality: Mostly winter visitors (October to April) originating from the Himalayas/Siberia. Dimorphism: Sexes are identical in most species; identified mainly by vocalizations.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-throated-bulbul",
+    "name": "White-throated Bulbul",
+    "assameseName": "গলবগা বুলবুলি",
+    "iucnStatus": "LC",
+    "description": "ID: 18-22 cm. Medium-sized songbird with short crest or distinct vent coloring. Assam Seasonality: Very common year-round resident in forests and gardens. Dimorphism: Sexes are identical (monomorphic); juveniles are slightly duller.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-throated-kingfisher",
+    "name": "White-throated Kingfisher",
+    "assameseName": "বগা বুকুৱা মাছৰোকা",
+    "iucnStatus": "LC",
+    "description": "ID: 16-35 cm. Large head, long dagger-like bill, short legs. Assam Seasonality: Resident near waterbodies (Deepor Beel, rivers) year-round. Dimorphism: In many species, males have fully black lower mandibles while females have orange/red bases on the lower mandible.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-winged-wood-duck",
+    "name": "White-winged Wood Duck",
+    "assameseName": "দেও হাঁহ",
+    "iucnStatus": "EN",
+    "description": "ID: 66-81 cm. Large, heavy-bodied dark forest duck with a starkly white head heavily mottled with black, and prominent white wing coverts. Assam Seasonality: Highly endangered resident of primary tropical evergreen rainforests with secluded pools (e.g., Dehing Patkai). Dimorphism: Sexes are generally similar, but males are significantly larger and heavier; females have more densely speckled heads and necks.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "wreathed-hornbill",
+    "name": "Wreathed Hornbill",
+    "assameseName": " মোনাথকা ধনেশ",
+    "iucnStatus": "VU",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "western-marsh-harrier",
+    "name": "Western Marsh Harrier",
+    "assameseName": "ডবা শেন",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "water-cock",
+    "name": "Water Cock",
+    "assameseName": "কুটুম চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "wood-sandpiper",
+    "name": "Wood Sandpiper",
+    "assameseName": "মূৰলৰি বালিবগুৱা",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "whiskered-tern",
+    "name": "Whiskered Tern",
+    "assameseName": "কজলা গঙাচিলনী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-capped-redstart",
+    "name": "White-capped Redstart",
+    "assameseName": "বগা টুপী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-browed-scimiter-babbler",
+    "name": "White-browed Scimiter Babbler",
+    "assameseName": "প্ৰবাল ঠোঁটি",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "white-naped-yuhina",
+    "name": "White-naped Yuhina",
+    "assameseName": "খোপাতী",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "yellow-eyed-babbler",
+    "name": "Yellow eyed Babbler",
+    "assameseName": "হালধীয়া চকুৱা ঢাপলিকা",
+    "iucnStatus": "LC",
+    "description": "ID: 15-30 cm. Gregarious forest/undergrowth bird with strong legs, operating in noisy social flocks. Assam Seasonality: Highly sedentary year-round resident. Dimorphism: Sexes are identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "yellow-bellied-warbler",
+    "name": "Yellow-bellied Warbler",
+    "assameseName": "টিপচী",
+    "iucnStatus": "LC",
+    "description": "ID: 10-13 cm. Small, active, cryptic insectivore. Assam Seasonality: Mostly winter visitors (October to April) originating from the Himalayas/Siberia. Dimorphism: Sexes are identical in most species; identified mainly by vocalizations.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "yellow-footed-green-pigeon",
+    "name": "Yellow-footed Green Pigeon",
+    "assameseName": "হাইঠা",
+    "iucnStatus": "LC",
+    "description": "ID: 20-40 cm. Plump body, short neck, slender bill with a fleshy cere. Assam Seasonality: Year-round resident across agricultural and forest zones. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "yellow-bittern",
+    "name": "Yellow Bittern",
+    "assameseName": "হালধি কণী",
+    "iucnStatus": "LC",
+    "description": "ID: 40-100 cm. Long-legged, long-necked wading bird found around wetlands. Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). Dimorphism: Sexes are generally identical.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "yellow-bellied-prinia",
+    "name": "Yellow bellied Prinia",
+    "assameseName": "হালধী-বুলুৱা নলচুপি",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  },
+  {
+    "id": "zitting-cisticola",
+    "name": "Zitting Cisticola",
+    "assameseName": "নাচনী চৰাই",
+    "iucnStatus": "LC",
+    "description": "ID: Variable size. Distinctive local avian species with regional field marks. Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
+    "image": "placeholder.jpg"
+  }
+]
