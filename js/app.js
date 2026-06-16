@@ -346,7 +346,7 @@ else {
         "inline-block";
 
     loadMoreBtn.textContent =
-        `Load ${birdsPerPage} More Birds`;
+        `Load More`;
 }
 }
 function showSuggestions(searchTerm) {
