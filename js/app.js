@@ -319,19 +319,22 @@ function renderBirds(birdList) {
         birdGrid.appendChild(card);
     });
 
-    if (
-        visibleBirds >=
-        birdList.length
-    ) {
+if (
+    visibleBirds >=
+    birdList.length
+) {
 
-        loadMoreBtn.style.display =
-            "none";
-    }
-    else {
+    loadMoreBtn.style.display =
+        "none";
+}
+else {
 
-        loadMoreBtn.style.display =
-            "inline-block";
-    }
+    loadMoreBtn.style.display =
+        "inline-block";
+
+    loadMoreBtn.textContent =
+        `Load ${birdsPerPage} More Birds`;
+}
 }
 function showSuggestions(searchTerm) {
 
