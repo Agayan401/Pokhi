@@ -215,12 +215,25 @@ body {
 
     cursor: pointer;
 
+    color: #111827;
+
+    background: white;
+
+    font-weight: 500;
+
     transition: .15s;
 }
 
 .suggestion-item:hover {
 
     background: #dcfce7;
+
+    color: #14532d;
+}
+
+.suggestions {
+
+    color: #111827;
 }
 
 /* =========================
