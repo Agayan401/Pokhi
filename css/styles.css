@@ -363,7 +363,29 @@ body {
 
     border-radius: 999px;
 
-    background: #f3f4f6;
+    font-weight: 600;
+
+    color: white;
+}
+#countLC {
+    background: #22c55e;
+}
+
+#countNT {
+    background: #eab308;
+    color: #111827;
+}
+
+#countVU {
+    background: #f97316;
+}
+
+#countEN {
+    background: #ef4444;
+}
+
+#countCR {
+    background: #7f1d1d;
 }
 /* =========================
    SECTIONS
