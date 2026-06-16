@@ -195,39 +195,53 @@ function renderBirdOfDay() {
             dayNumber % birds.length
         ];
 
-    container.innerHTML = `
-        <div class="bird-card">
+container.innerHTML = `
+    <div class="bird-card featured-bird">
+
+        <div class="featured-image-wrapper">
+
             <img
                 src="images/${bird.image}"
                 alt="${bird.name}"
                 onerror="this.src='images/placeholder.jpg'"
             >
 
-<div class="bird-info">
+            <div class="featured-tag">
+                Featured Today
+            </div>
 
-    <h3>${bird.name}</h3>
-
-    <p class="assamese-name">
-        ${bird.assameseName || ""}
-    </p>
-
-    <span
-        class="status-badge ${getStatusClass(
-            bird.iucnStatus
-        )}">
-        ${bird.iucnStatus || ""}
-    </span>
-
-    <p class="featured-description">
-
-        ${(bird.description || "")
-            .substring(0, 140)}...
-
-    </p>
-
-</div>
         </div>
-    `;
+
+        <div class="bird-info">
+
+            <h3>${bird.name}</h3>
+
+            <p class="assamese-name">
+                ${bird.assameseName || ""}
+            </p>
+
+            <span
+                class="status-badge ${getStatusClass(
+                    bird.iucnStatus
+                )}">
+                ${bird.iucnStatus || ""}
+            </span>
+
+            <p class="featured-description">
+
+                ${(bird.description || "")
+                    .substring(0, 180)}...
+
+            </p>
+
+            <button class="featured-btn">
+                Learn More
+            </button>
+
+        </div>
+
+    </div>
+`;
 
     const card =
         container.querySelector(
