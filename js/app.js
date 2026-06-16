@@ -203,24 +203,29 @@ function renderBirdOfDay() {
                 onerror="this.src='images/placeholder.jpg'"
             >
 
-            <div class="bird-info">
+<div class="bird-info">
 
-                <h3>${bird.name}</h3>
+    <h3>${bird.name}</h3>
 
-                <p class="assamese-name">
-                    ${bird.assameseName || ""}
-                </p>
+    <p class="assamese-name">
+        ${bird.assameseName || ""}
+    </p>
 
-                <span
-                    class="status-badge ${getStatusClass(
-                        bird.iucnStatus
-                    )}">
+    <span
+        class="status-badge ${getStatusClass(
+            bird.iucnStatus
+        )}">
+        ${bird.iucnStatus || ""}
+    </span>
 
-                    ${bird.iucnStatus || ""}
+    <p class="featured-description">
 
-                </span>
+        ${(bird.description || "")
+            .substring(0, 140)}...
 
-            </div>
+    </p>
+
+</div>
         </div>
     `;
 
