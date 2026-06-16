@@ -1,232 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-    <meta charset="UTF-8">
-
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0">
-
-    <title>
-        Pokhi | The Birds of Assam
-    </title>
-
-    <link
-        rel="stylesheet"
-        href="css/styles.css">
-
-</head>
-
-<body>
-
-    <!-- NAVIGATION -->
-
-    <nav class="navbar">
-
-        <div class="logo">
-            POKHI
-        </div>
-
-        <ul class="nav-links">
-
-            <li>
-                <a href="#">
-                    Home
-                </a>
-            </li>
-
-            <li>
-                <a href="#directory">
-                    Directory
-                </a>
-            </li>
-
-            <li>
-                <a href="#about">
-                    About
-                </a>
-            </li>
-
-        </ul>
-
-    </nav>
-
-    <!-- HERO -->
-
-    <header class="hero">
-
-        <div class="overlay">
-
-            <div class="hero-content">
-
-                <h1>
-                    POKHI
-                </h1>
-
-                <p class="subtitle">
-                    The Birds of Assam
-                </p>
-
-                <p class="hero-text">
-
-                    Explore Assam's avian diversity through
-                    photographs, Assamese names and
-                    conservation information.
-
-                </p>
-
-                <div class="search-wrapper">
-
-                    <input
-                        type="text"
-                        id="searchInput"
-                        placeholder="Search by English or Assamese name...">
-
-                    <!-- AUTOCOMPLETE DROPDOWN -->
-
-                    <div
-                        id="suggestions"
-                        class="suggestions">
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </header>
-
-    <!-- STATS -->
-
-    <section class="stats">
-
-        <div class="stat-card">
-
-            <h2 id="speciesCount">
-                0
-            </h2>
-
-            <p>
-                Species
-            </p>
-
-        </div>
-
-        <div class="stat-card">
-
-            <h2 id="threatenedCount">
-                0
-            </h2>
-
-            <p>
-                Threatened Species
-            </p>
-
-        </div>
-
-    </section>
-
-    <!-- BIRD OF DAY -->
-
-    <section class="bird-of-day">
-
-        <h2>
-            Bird of the Day
-        </h2>
-
-        <div id="birdOfDay"></div>
-
-    </section>
-
-    <!-- DIRECTORY -->
-
-    <section
-        class="directory"
-        id="directory">
-
-        <h2>
-            Bird Directory
-        </h2>
-
-        <p id="resultCount"></p>
-
-	<button
-    id="resetSearchBtn"
-    class="reset-search-btn"
-    style="display:none;">
-
-    Show All Birds
-
-</button>
-
-        <select id="statusFilter">
-
-            <option value="All">
-                All Status
-            </option>
-
-            <option value="LC">
-                Least Concern
-            </option>
-
-            <option value="NT">
-                Near Threatened
-            </option>
-
-            <option value="VU">
-                Vulnerable
-            </option>
-
-            <option value="EN">
-                Endangered
-            </option>
-
-            <option value="CR">
-                Critically Endangered
-            </option>
-
-        </select>
-
-        <div id="birdGrid"></div>
-
-    </section>
-
-    <!-- MODAL -->
+<section class="homepage-panels">
 
     <div
-        id="birdModal"
-        class="modal">
-
-        <div class="modal-content">
-
-            <span id="closeModal">
-                &times;
-            </span>
-
-            <img
-                id="modalImage"
-                src=""
-                alt="Bird">
-
-            <h2 id="modalName"></h2>
-
-            <p id="modalAssamese"></p>
-
-            <p id="modalStatus"></p>
-
-            <p id="modalDescription"></p>
-
-        </div>
-
-    </div>
-
-    <!-- ABOUT -->
-
-    <section
-        class="about"
+        class="about-panel"
         id="about">
 
         <h2>
@@ -235,32 +10,43 @@
 
         <p>
 
-            Pokhi is a community-driven effort to
-            document the birds of Assam and preserve
-            their Assamese names for future generations.
-
-            By combining bird photography, local
-            knowledge and conservation information,
-            Pokhi aims to create an accessible resource
-            for everyone interested in the natural
-            heritage of Assam.
+            The skies of Assam are filled with incredible
+            birdlife, but their true local identities are
+            rarely found in field guides.
 
         </p>
-
-    </section>
-
-    <!-- FOOTER -->
-
-    <footer class="footer">
 
         <p>
-            © 2025 Pokhi • The Birds of Assam
+
+            To celebrate and preserve this heritage,
+            this growing directory pairs high-quality
+            field photography and quick habitat facts
+            with authentic Assamese names, creating
+            a visual catalog of the birds in our own
+            backyards.
+
         </p>
 
-    </footer>
+        <p>
 
-    <script src="js/app.js"></script>
+            Whether you are a seasoned birder,
+            a student, or simply someone who loves
+            Assam's natural heritage, we invite you
+            to explore and use the feedback section
+            to help our community catalog grow!
 
-</body>
+        </p>
 
-</html>
+    </div>
+
+    <div class="bird-of-day-panel">
+
+        <h2>
+            Bird of the Day
+        </h2>
+
+        <div id="birdOfDay"></div>
+
+    </div>
+
+</section>
