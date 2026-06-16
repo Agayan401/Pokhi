@@ -7,6 +7,30 @@ const statusFilter = document.getElementById("statusFilter");
 const suggestionsBox = document.getElementById("suggestions");
 const resetSearchBtn = document.getElementById("resetSearchBtn");
 
+function getStatusClass(status) {
+
+    switch (status) {
+
+        case "LC":
+            return "status-lc";
+
+        case "NT":
+            return "status-nt";
+
+        case "VU":
+            return "status-vu";
+
+        case "EN":
+            return "status-en";
+
+        case "CR":
+            return "status-cr";
+
+        default:
+            return "";
+    }
+}
+
 async function loadBirds() {
 
     try {
@@ -187,8 +211,13 @@ function renderBirdOfDay() {
                     ${bird.assameseName || ""}
                 </p>
 
-                <span class="status-badge">
+                <span
+                    class="status-badge ${getStatusClass(
+                        bird.iucnStatus
+                    )}">
+
                     ${bird.iucnStatus || ""}
+
                 </span>
 
             </div>
@@ -236,8 +265,13 @@ function renderBirds(birdList) {
                     ${bird.assameseName || ""}
                 </p>
 
-                <span class="status-badge">
+                <span
+                    class="status-badge ${getStatusClass(
+                    bird.iucnStatus
+                    )}">
+
                     ${bird.iucnStatus || ""}
+
                 </span>
 
             </div>
