@@ -939,3 +939,39 @@ body {
         height: 220px;
     }
 }
+
+.load-more-container {
+
+    text-align: center;
+
+    margin-top: 2rem;
+}
+
+#loadMoreBtn {
+
+    padding: 12px 24px;
+
+    border: none;
+
+    border-radius: 12px;
+
+    background: #14532d;
+
+    color: white;
+
+    font-size: 1rem;
+
+    font-weight: 700;
+
+    cursor: pointer;
+
+    transition: .2s;
+}
+
+#loadMoreBtn:hover {
+
+    opacity: .9;
+
+    transform:
+        translateY(-2px);
+}
