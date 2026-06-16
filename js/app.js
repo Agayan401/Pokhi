@@ -79,36 +79,55 @@ function renderBirdOfDay() {
 
     if (!birds.length) return;
 
-    const randomBird =
+    const today = new Date();
+
+    const dayNumber =
+        Math.floor(
+            today.getTime() /
+            (1000 * 60 * 60 * 24)
+        );
+
+    const bird =
         birds[
-            Math.floor(
-                Math.random() * birds.length
-            )
+            dayNumber % birds.length
         ];
 
     container.innerHTML = `
         <div class="bird-card">
             <img
-                src="images/${randomBird.image}"
-                alt="${randomBird.name}"
+                src="images/${bird.image}"
+                alt="${bird.name}"
                 onerror="this.src='images/placeholder.jpg'"
             >
 
             <div class="bird-info">
 
-                <h3>${randomBird.name}</h3>
+                <h3>${bird.name}</h3>
 
                 <p class="assamese-name">
-                    ${randomBird.assameseName || ""}
+                    ${bird.assameseName || ""}
                 </p>
 
                 <span class="status-badge">
-                    ${randomBird.iucnStatus || ""}
+                    ${bird.iucnStatus || ""}
                 </span>
 
             </div>
         </div>
     `;
+
+    const card =
+        container.querySelector(
+            ".bird-card"
+        );
+
+    if (card) {
+
+        card.addEventListener(
+            "click",
+            () => openModal(bird)
+        );
+    }
 }
 
 function renderBirds(birdList) {
