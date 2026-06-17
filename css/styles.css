@@ -566,6 +566,52 @@ p {
     margin-bottom: 1rem;
 }
 
+.directory h2 {
+
+    color: #14532d;
+
+    margin-bottom: 1rem;
+}
+
+/* =========================
+   DIRECTORY SEARCH
+========================= */
+
+.directory-search {
+
+    margin: 1.5rem 0 1rem;
+}
+
+#directorySearchInput {
+
+    width: 100%;
+
+    padding: 14px 20px;
+
+    border: 1px solid #d1d5db;
+
+    border-radius: 12px;
+
+    font-size: 1rem;
+
+    background: white;
+
+    box-shadow:
+        0 2px 8px rgba(0,0,0,.05);
+
+    transition: .2s;
+}
+
+#directorySearchInput:focus {
+
+    outline: none;
+
+    border-color: #14532d;
+
+    box-shadow:
+        0 0 0 3px rgba(20,83,45,.15);
+}
+
 #statusFilter {
 
     padding: 12px 16px;
@@ -576,7 +622,7 @@ p {
 
     background: white;
 
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .reset-search-btn {
