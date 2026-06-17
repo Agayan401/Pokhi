@@ -99,8 +99,8 @@ body {
 
     background:
         linear-gradient(
-            rgba(0,0,0,.38),
-            rgba(0,0,0,.25)
+            rgba(0,0,0,.10),
+            rgba(0,0,0,.10)
         ),
         url("../images/hero.avif");
 
