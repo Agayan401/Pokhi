@@ -3,6 +3,10 @@ let filteredBirds = [];
 
 const birdGrid = document.getElementById("birdGrid");
 const searchInput = document.getElementById("searchInput");
+const directorySearchInput =
+    document.getElementById(
+        "directorySearchInput"
+    );
 const statusFilter = document.getElementById("statusFilter");
 const suggestionsBox = document.getElementById("suggestions");
 const resetSearchBtn = document.getElementById("resetSearchBtn");
@@ -445,17 +449,28 @@ function performSearch() {
 
     setTimeout(() => {
 
-        searchInput.value = "";
+    searchInput.value = "";
 
-    }, 500);
+}, 500);
 }
 
 function filterBirds() {
 
-    const search =
+    const heroSearch =
         searchInput.value
             .toLowerCase()
             .trim();
+
+    const directorySearch =
+        directorySearchInput
+            ? directorySearchInput.value
+                .toLowerCase()
+                .trim()
+            : "";
+
+    const search =
+        directorySearch ||
+        heroSearch;
 
     const status =
         statusFilter.value;
@@ -502,6 +517,14 @@ searchInput.addEventListener(
     filterBirds
 );
 
+if (directorySearchInput) {
+
+    directorySearchInput.addEventListener(
+        "input",
+        filterBirds
+    );
+}
+
 searchInput.addEventListener(
     "keydown",
     event => {
@@ -536,6 +559,11 @@ if (resetSearchBtn) {
             updateResultCount();
 
             searchInput.value = "";
+
+            if (directorySearchInput) {
+
+    directorySearchInput.value = "";
+}
 
             statusFilter.value = "All";
 
