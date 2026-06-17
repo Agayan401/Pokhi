@@ -517,6 +517,31 @@ searchInput.addEventListener(
     filterBirds
 );
 
+searchInput.addEventListener(
+    "focus",
+    () => {
+
+        if (window.innerWidth <= 768) {
+
+            setTimeout(() => {
+
+                const y =
+                    searchInput.getBoundingClientRect().top +
+                    window.pageYOffset -
+                    80;
+
+                window.scrollTo({
+                    top: y,
+                    behavior: "smooth"
+                });
+
+            }, 250);
+
+        }
+
+    }
+);
+
 if (directorySearchInput) {
 
     directorySearchInput.addEventListener(
