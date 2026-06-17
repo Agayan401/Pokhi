@@ -18,6 +18,10 @@ body {
 
     line-height: 1.7;
 }
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
 
 /* =========================
    NAVBAR
