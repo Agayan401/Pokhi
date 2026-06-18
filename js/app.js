@@ -97,6 +97,23 @@ function updateStatistics() {
     ).textContent =
         speciesCount;
 
+    const assameseCount =
+    birds.filter(
+        bird =>
+            bird.assameseName &&
+            bird.assameseName.trim() !== ""
+    ).length;
+
+document.getElementById(
+    "aboutSpeciesCount"
+).textContent =
+    speciesCount;
+
+document.getElementById(
+    "aboutAssameseCount"
+).textContent =
+    assameseCount + "+";
+
     const lc =
         birds.filter(
             b => b.iucnStatus === "LC"
