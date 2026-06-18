@@ -112,7 +112,7 @@ document.getElementById(
 document.getElementById(
     "aboutAssameseCount"
 ).textContent =
-    assameseCount + "+";
+    assameseCount;
 
     const lc =
         birds.filter(
