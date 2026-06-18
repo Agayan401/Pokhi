@@ -525,17 +525,12 @@ searchInput.addEventListener(
 
             setTimeout(() => {
 
-                const y =
-                    searchInput.getBoundingClientRect().top +
-                    window.pageYOffset -
-                    40;
-
-                window.scrollTo({
-                    top: y,
-                    behavior: "smooth"
+                searchInput.scrollIntoView({
+                    behavior: "smooth",
+                    block: "center"
                 });
 
-            }, 250);
+            }, 300);
 
         }
 
