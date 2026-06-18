@@ -1136,10 +1136,6 @@ p {
 
 .partner-logos img {
 
-    max-height: 90px;
-
-    max-width: 220px;
-
     width: auto;
 
     object-fit: contain;
@@ -1150,6 +1146,22 @@ p {
         drop-shadow(
             0 2px 4px rgba(0,0,0,.15)
         );
+}
+
+/* Assam Bird Monitoring Network */
+.partner-logos img:first-child {
+
+    max-height: 110px;
+
+    max-width: 260px;
+}
+
+/* Wild Heart Foundation */
+.partner-logos img:last-child {
+
+    max-height: 90px;
+
+    max-width: 220px;
 }
 
 .partner-logos img:hover {
