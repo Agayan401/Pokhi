@@ -26,6 +26,25 @@ p {
 /* =========================
    NAVBAR
 ========================= */
+.navbar-title {
+
+    flex: 1;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+}
+
+.navbar-title img {
+
+    height: 42px;
+
+    width: auto;
+
+    opacity: .95;
+}
 
 .navbar {
 
@@ -1184,9 +1203,13 @@ p {
 
 @media (max-width: 768px) {
 
-    .logo img {
+.logo img {
 
-    height: 42px;
+    content: url("../images/logo_footer.png");
+
+    height: 70px;
+
+    width: auto;
 }
 
 .hero-logo {
@@ -1194,6 +1217,7 @@ p {
     width: 220px;
 }
 
+    
     .navbar {
 
         flex-direction: column;
@@ -1202,6 +1226,11 @@ p {
 
         padding: 1rem;
     }
+
+    .navbar-title {
+
+    display: none;
+}
 
     .nav-links {
 
