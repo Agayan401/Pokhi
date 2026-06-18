@@ -462,6 +462,47 @@ p {
 
     color: #374151;
 }
+.about-mini-stats {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 1rem;
+
+    margin-top: 2rem;
+
+    padding-top: 1.5rem;
+
+    border-top: 1px solid #e5e7eb;
+}
+
+.about-stat {
+
+    flex: 1;
+
+    text-align: center;
+}
+
+.about-stat strong {
+
+    display: block;
+
+    font-size: 1.8rem;
+
+    font-weight: 800;
+
+    color: #14532d;
+
+    line-height: 1.2;
+}
+
+.about-stat span {
+
+    font-size: .9rem;
+
+    color: #6b7280;
+}
 
 /* =========================
    FEATURED BIRD
