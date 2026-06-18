@@ -543,6 +543,26 @@ if (directorySearchInput) {
         "input",
         filterBirds
     );
+
+    directorySearchInput.addEventListener(
+        "focus",
+        () => {
+
+            if (window.innerWidth <= 768) {
+
+                setTimeout(() => {
+
+                    directorySearchInput.scrollIntoView({
+                        behavior: "smooth",
+                        block: "start"
+                    });
+
+                }, 300);
+
+            }
+
+        }
+    );
 }
 
 searchInput.addEventListener(
