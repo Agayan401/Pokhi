@@ -555,7 +555,7 @@ if (directorySearchInput) {
                     const y =
     directorySearchInput.getBoundingClientRect().top +
     window.pageYOffset -
-    180;
+    100;
 
 window.scrollTo({
     top: y,
