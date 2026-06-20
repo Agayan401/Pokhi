@@ -1515,6 +1515,8 @@ p {
 
     margin-right: calc(50% - 50vw);
 
+    margin-top: -80px;
+
     text-align: center;
 
     overflow: hidden;
