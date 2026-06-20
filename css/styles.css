@@ -1540,15 +1540,29 @@ p {
 
     position: absolute;
 
-    width: 24px;
+    width: 28px;
 
-    height: 24px;
+    height: 28px;
 
     border-radius: 50%;
 
-    background: rgba(20,92,46,0.8);
+    background: #145c2e;
+
+    color: white;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-size: 14px;
+
+    font-weight: 700;
 
     cursor: pointer;
+
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 
     transition: 0.2s;
 }
