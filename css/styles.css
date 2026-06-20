@@ -1510,9 +1510,15 @@ p {
 
     text-align: center;
 
-    overflow: visible;
+    overflow: hidden;
 
-    padding-bottom: 60px;
+    padding-bottom: 0;
+
+    background: transparent;
+
+    border: none;
+
+    box-shadow: none;
 }
 
 .info-panel h2 {
@@ -1543,9 +1549,11 @@ p {
 
     width: fit-content;
 
-    margin: 0 auto;
+    max-width: 900px;
 
-    max-width: 900px;   /* adjust if needed */
+    margin-left: -180px;
+
+    margin-right: auto;
 }
 
 .bird-wrapper img {
