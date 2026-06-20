@@ -1498,9 +1498,11 @@ p {
 
 .bird-panel img {
 
-    width: 100%;
+    width: 85%;
 
     display: block;
+
+    margin: 0 auto;
 }
 
 .info-panel h2 {
