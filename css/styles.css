@@ -1448,131 +1448,13 @@ p {
     transform:
         translateY(-2px);
 }
-/* Anatomy Guide */
 
-.anatomy-page {
 
-    max-width: 1400px;
 
-    margin: 0 auto;
 
-    padding: 3rem 2rem;
-}
 
-.anatomy-header {
 
-    text-align: center;
 
-    margin-bottom: 1rem;
-}
-
-.anatomy-header h1 {
-
-    color: #145c2e;
-
-    margin-bottom: 1rem;
-}
-
-.anatomy-container {
-
-    display: flex;
-
-    flex-direction: column;
-
-    gap: 2rem;
-}
-
-.info-panel {
-
-    max-width: 1200px;
-
-    margin: 0 auto;
-
-    width: 100%;
-
-    position: relative;
-
-    z-index: 5;
-
-    background: white;
-
-    border: 1px solid rgba(20,92,46,0.15);
-
-    border-radius: 24px;
-
-    box-shadow: 0 6px 24px rgba(0,0,0,0.08);
-
-    margin-top: -10px;
-}
-
-.bird-panel {
-
-    width: 100vw;
-
-    max-width: none;
-
-    margin-left: calc(50% - 50vw);
-
-    margin-right: calc(50% - 50vw);
-
-    margin-top: -90px;
-
-    text-align: center;
-
-    overflow: hidden;
-
-    padding-bottom: 0;
-
-    background: transparent;
-
-    border: none;
-
-    box-shadow: none;
-}
-
-.info-panel h2 {
-
-    color: #145c2e;
-
-    margin-bottom: 1rem;
-}
-
-.info-panel ul {
-
-    margin-top: 1rem;
-
-    padding-left: 1.2rem;
-}
-
-@media (max-width: 900px) {
-
-    .anatomy-container {
-
-        grid-template-columns: 1fr;
-    }
-
-}
-.bird-wrapper {
-
-    position: relative;
-
-    width: fit-content;
-
-    max-width: 1000px;
-
-    margin-left: 0px;
-
-    margin-right: auto;
-}
-
-.bird-wrapper img {
-
-    width: 100%;
-
-    height: auto;
-
-    display: block;
-}
 
 .hotspot {
 
@@ -1619,19 +1501,143 @@ p {
     top: 33%;
 }
 
-.anatomy-layout {
-    display: flex;
-    align-items: flex-start;
-    gap: 40px;
+/* ==========================================
+   ANATOMY GUIDE
+========================================== */
+
+.anatomy-page {
+
+    max-width: 1400px;
+
+    margin: 0 auto;
+
+    padding: 3rem 2rem;
+}
+
+.anatomy-header {
+
+    text-align: center;
+
+    margin-bottom: 1rem;
+}
+
+.anatomy-header h1 {
+
+    color: #145c2e;
+
+    margin-bottom: 1rem;
+}
+
+.anatomy-container {
+
     width: 100%;
 }
 
-.bird-panel {
-    flex: 1;
+.anatomy-layout {
+
+    display: flex;
+
+    align-items: flex-start;
+
+    justify-content: space-between;
+
+    gap: 40px;
 }
-    
+
+/* ---------- Bird Area ---------- */
+
+.bird-panel {
+
+    flex: 1;
+
+    width: 100vw;
+
+    max-width: none;
+
+    margin-left: calc(50% - 50vw);
+
+    margin-right: calc(50% - 50vw);
+
+    margin-top: -90px;
+
+    overflow: hidden;
+}
+
+.bird-wrapper {
+
+    position: relative;
+
+    width: fit-content;
+
+    max-width: 1150px;
+
+    margin-left: -180px;
+
+    margin-right: auto;
+}
+
+.bird-wrapper img {
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
+}
+
+/* ---------- Hotspots ---------- */
+
+.hotspot {
+
+    position: absolute;
+
+    width: 28px;
+
+    height: 28px;
+
+    border-radius: 50%;
+
+    background: #145c2e;
+
+    color: white;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    font-size: 14px;
+
+    font-weight: 700;
+
+    cursor: pointer;
+
+    box-shadow: 0 2px 8px rgba(0,0,0,.2);
+
+    transition: 0.2s;
+}
+
+.hotspot:hover {
+
+    transform: scale(1.2);
+
+    background: #1e7a3c;
+}
+
+.hotspot-bill {
+
+    left: 24%;
+
+    top: 33%;
+}
+
+/* ---------- Information Panel ---------- */
+
 .info-panel {
+
     width: 360px;
+
     min-width: 360px;
 
     background: white;
@@ -1645,24 +1651,42 @@ p {
     position: sticky;
 
     top: 120px;
-
-    margin-top: 100px;
 }
 
-.anatomy-info h2 {
-    color: #0f5d2f;
-    margin-bottom: 16px;
+.info-panel h2 {
+
+    color: #145c2e;
+
+    margin-bottom: 1rem;
 }
+
+.info-panel ul {
+
+    margin-top: 1rem;
+
+    padding-left: 1.2rem;
+}
+
+/* ---------- Mobile ---------- */
 
 @media (max-width: 1000px) {
 
     .anatomy-layout {
+
         flex-direction: column;
     }
 
-    .anatomy-info {
+    .info-panel {
+
         width: 100%;
+
         min-width: auto;
+
         position: static;
+    }
+
+    .bird-wrapper {
+
+        margin-left: 0;
     }
 }
