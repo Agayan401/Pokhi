@@ -1619,4 +1619,46 @@ p {
     top: 33%;
 }
 
+.anatomy-layout {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    width: 100%;
+}
 
+.bird-panel {
+    flex: 1;
+}
+
+.anatomy-info {
+    width: 340px;
+    min-width: 340px;
+
+    background: white;
+    border-radius: 16px;
+
+    padding: 24px;
+
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+
+    position: sticky;
+    top: 120px;
+}
+
+.anatomy-info h2 {
+    color: #0f5d2f;
+    margin-bottom: 16px;
+}
+
+@media (max-width: 1000px) {
+
+    .anatomy-layout {
+        flex-direction: column;
+    }
+
+    .anatomy-info {
+        width: 100%;
+        min-width: auto;
+        position: static;
+    }
+}
