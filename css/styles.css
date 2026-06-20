@@ -1490,6 +1490,20 @@ p {
     margin: 0 auto;
 
     width: 100%;
+
+    position: relative;
+
+    z-index: 5;
+
+    background: white;
+
+    border: 1px solid rgba(20,92,46,0.15);
+
+    border-radius: 24px;
+
+    box-shadow: 0 6px 24px rgba(0,0,0,0.08);
+
+    margin-top: -10px;
 }
 
 .bird-panel {
@@ -1497,6 +1511,8 @@ p {
     text-align: center;
 
     overflow: visible;
+
+    padding-bottom: 60px;
 }
 
 .info-panel h2 {
@@ -1584,4 +1600,18 @@ p {
     left: 24%;
 
     top: 33%;
+}
+
+.anatomy-divider {
+
+    height: 70px;
+
+    margin-top: -20px;
+
+    margin-bottom: -35px;
+
+    border-bottom: 3px solid #145c2e;
+
+    border-radius: 0 0 50% 50%;
+
 }
