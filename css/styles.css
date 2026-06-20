@@ -1528,6 +1528,17 @@ p {
     width: fit-content;
 
     margin: 0 auto;
+
+    max-width: 900px;   /* adjust if needed */
+}
+
+.bird-wrapper img {
+
+    width: 100%;
+
+    height: auto;
+
+    display: block;
 }
 
 .hotspot {
