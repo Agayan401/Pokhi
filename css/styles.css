@@ -1482,7 +1482,6 @@ p {
     gap: 2rem;
 }
 
-.bird-panel,
 .info-panel {
 
     max-width: 1200px;
@@ -1507,6 +1506,14 @@ p {
 }
 
 .bird-panel {
+
+    width: 100vw;
+
+    max-width: none;
+
+    margin-left: calc(50% - 50vw);
+
+    margin-right: calc(50% - 50vw);
 
     text-align: center;
 
@@ -1551,7 +1558,7 @@ p {
 
     max-width: 900px;
 
-    margin-left: -180px;
+    margin-left: 0px;
 
     margin-right: auto;
 }
