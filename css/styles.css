@@ -1449,75 +1449,120 @@ p {
         translateY(-2px);
 }
 
+.bill-callout {
 
-
-
-
-
-
-
-.hotspot {
-
-    position: absolute;
-
-    width: 18px;
-
-    height: 18px;
-
-    border-radius: 50%;
-
-    background: #145c2e;
-
-    color: white;
-
-    display: flex;
-
-    align-items: center;
-
-    justify-content: center;
-
-    font-size: 10px;
-
-    font-weight: 700;
-
-    cursor: pointer;
-
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-
-    transition: 0.2s;
+    left: 39%;
+    top: 43%;
 }
 
-.hotspot:hover {
+.bill-callout .leader {
 
-    transform: scale(1.2);
+    width: 90px;
 
-    background: #1e7a3c;
+    left: -95px;
+
+    top: 4px;
 }
 
-.hotspot-bill {
-    left: 50%;
-    top: 26%;
+.bill-callout .label {
+
+    left: -170px;
+
+    top: -15px;
 }
 
-.hotspot-crown {
-    left: 59%;
-    top: 18%;
+.crown-callout {
+
+    left: 49%;
+    top: 31%;
 }
 
-.hotspot-supercilium {
-    left: 57.5%;
-    top: 22.8%;
+.crown-callout .leader {
+
+    width: 55px;
+
+    left: 10px;
+
+    top: -35px;
+
+    transform: rotate(-55deg);
 }
 
-.hotspot-throat {
-    left: 55.5%;
-    top: 34%;
+.crown-callout .label {
+
+    left: 70px;
+
+    top: -70px;
 }
 
-.hotspot-wingbar {
-    left: 62%;
-    top: 57%;
+.supercilium-callout {
+
+    left: 47%;
+    top: 40%;
 }
+
+.supercilium-callout .leader {
+
+    width: 110px;
+
+    left: -115px;
+
+    top: 3px;
+}
+
+.supercilium-callout .label {
+
+    left: -240px;
+
+    top: -16px;
+}
+
+.throat-callout {
+
+    left: 45%;
+    top: 55%;
+}
+
+.throat-callout .leader {
+
+    width: 90px;
+
+    left: -95px;
+
+    top: 4px;
+}
+
+.throat-callout .label {
+
+    left: -170px;
+
+    top: -15px;
+}
+
+.wingbar-callout {
+
+    left: 67%;
+    top: 61%;
+}
+
+.wingbar-callout .leader {
+
+    width: 80px;
+
+    left: 10px;
+
+    top: -25px;
+
+    transform: rotate(-35deg);
+}
+
+.wingbar-callout .label {
+
+    left: 90px;
+
+    top: -55px;
+}    
+    
 /* ==========================================
    ANATOMY GUIDE
 ========================================== */
@@ -1559,6 +1604,70 @@ p {
     justify-content: space-between;
 
     gap: 40px;
+}
+
+.callout {
+    position: absolute;
+}
+
+.anchor {
+
+    width: 10px;
+
+    height: 10px;
+
+    background: #145c2e;
+
+    border: 2px solid white;
+
+    border-radius: 50%;
+
+    position: absolute;
+
+    z-index: 2;
+}
+
+.leader {
+
+    position: absolute;
+
+    height: 2px;
+
+    background: #145c2e;
+
+    cursor: pointer;
+}
+
+.label {
+
+    position: absolute;
+
+    background: white;
+
+    border: 1px solid #145c2e;
+
+    border-radius: 12px;
+
+    padding: 8px 14px;
+
+    color: #145c2e;
+
+    font-weight: 600;
+
+    font-size: 0.95rem;
+
+    cursor: pointer;
+
+    white-space: nowrap;
+
+    transition: 0.2s;
+}
+
+.label:hover {
+
+    background: #145c2e;
+
+    color: white;
 }
 
 /* ---------- Bird Area ---------- */
