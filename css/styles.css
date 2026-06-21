@@ -1451,8 +1451,8 @@ p {
 
 .bill-callout {
 
-    left: 39%;
-    top: 43%;
+    left: 50%;
+    top: 26%;
 }
 
 .bill-callout .leader {
@@ -1473,8 +1473,8 @@ p {
 
 .crown-callout {
 
-    left: 49%;
-    top: 31%;
+    left: 59%;
+    top: 18%;
 }
 
 .crown-callout .leader {
@@ -1497,8 +1497,8 @@ p {
 
 .supercilium-callout {
 
-    left: 47%;
-    top: 40%;
+    left: 57.5%;
+    top: 22.8%;
 }
 
 .supercilium-callout .leader {
@@ -1519,8 +1519,8 @@ p {
 
 .throat-callout {
 
-    left: 45%;
-    top: 55%;
+    left: 55.5%;
+    top: 34%;
 }
 
 .throat-callout .leader {
@@ -1612,9 +1612,9 @@ p {
 
 .anchor {
 
-    width: 10px;
+    width: 8px;
 
-    height: 10px;
+    height: 8px;
 
     background: #145c2e;
 
