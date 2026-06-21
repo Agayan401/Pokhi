@@ -1545,6 +1545,18 @@ p {
     top: 61%;
 }
 
+.wingbar-anchor-1 {
+
+    left: -5px;
+    top: -5px;
+}
+
+.wingbar-anchor-2 {
+
+    left: 18px;
+    top: 14px;
+}
+
 .wingbar-callout .leader {
 
     width: 80px;
