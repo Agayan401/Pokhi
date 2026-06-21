@@ -1636,9 +1636,9 @@ p {
 
 .info-panel {
 
-    width: 360px;
+    width: 420px;
 
-    min-width: 360px;
+    min-width: 420px;
 
     background: white;
 
@@ -1650,7 +1650,7 @@ p {
 
     position: sticky;
 
-    top: 120px;
+    top: 180px;
 }
 
 .info-panel h2 {
