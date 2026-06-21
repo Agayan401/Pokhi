@@ -1495,34 +1495,28 @@ p {
 }
 
 .hotspot-bill {
-
-    left: 24%;
-
-    top: 33%;
+    top: 36%;
+    left: 28%;
 }
 
-/* Crown */
 .hotspot-crown {
-    left: 46%;
-    top: 28%;
+    top: 29%;
+    left: 40%;
 }
 
-/* Supercilium */
 .hotspot-supercilium {
-    left: 42%;
-    top: 34%;
+    top: 40%;
+    left: 34%;
 }
 
-/* Throat */
 .hotspot-throat {
-    left: 48%;
-    top: 48%;
+    top: 55%;
+    left: 40%;
 }
 
-/* Wing Bar */
 .hotspot-wingbar {
-    left: 63%;
-    top: 52%;
+    top: 60%;
+    left: 58%;
 }
 
 /* ==========================================
