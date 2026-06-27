@@ -1219,7 +1219,7 @@
     "id": "greater-adjutant",
     "name": "Greater Adjutant",
     "assameseName": "হাড়গিলা",
-    "iucnStatus": "EN",
+    "iucnStatus": "NT",
     "description": "Assam Seasonality: Resident and localized breeder. Moves around urban landfills (Guwahati) and nesting colonies from September to April. The size of the bird is 120-152 cm. Massive, prehistoric-looking stork with a thick wedge-shaped bill, dark grey upperparts, a naked pinkish head/neck, and a distinctive low-hanging inflatable throat pouch. Dimorphism: Sexes are identical in plumage, but males average slightly larger with longer, heavier bills.",
     "image": "images/birds/greater-adjutant.avif"
   },
@@ -1691,7 +1691,7 @@
     "id": "lesser-adjutant-stork",
     "name": "Lesser Adjutant Stork",
     "assameseName": "বৰটোকোলা",
-    "iucnStatus": "VU",
+    "iucnStatus": "NT",
     "description": "Assam Seasonality: Widespread year-round resident in wetlands, rivers and agricultural fields. The size of the bird is 110-120 cm. Large stork with a glossy black back and white underparts. Lacks the hanging throat pouch of the Greater Adjutant; neck is mostly naked yellowish-orange. Dimorphism: Monomorphic in plumage; males can be distinguished primarily by their slightly larger stature and thicker bill base.",
     "image": "images/birds/lesser-adjutant-stork.avif"
   },
@@ -2851,7 +2851,7 @@
     "id": "white-winged-wood-duck",
     "name": "White-winged Wood Duck",
     "assameseName": "দেও হাঁহ",
-    "iucnStatus": "EN",
+    "iucnStatus": "CE",
     "description": "The state bird of Assam. Assam Seasonality: Highly endangered resident of primary tropical evergreen rainforests with secluded pools (e.g. Nameri, Dehing Patkai). The size of the bird is 66-81 cm. Large, heavy-bodied dark forest duck with a starkly white head heavily mottled with black, and prominent white wing coverts. Dimorphism: Sexes are generally similar, but males are significantly larger and heavier; females have more densely speckled heads and necks.",
     "image": "images/birds/white-winged-wood-duck.avif"
   },
