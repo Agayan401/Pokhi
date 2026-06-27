@@ -2949,3 +2949,41 @@ MOBILE
 }
 
 }
+/* ==========================================
+   LEGAL PAGE
+========================================== */
+
+#privacy,
+#terms,
+#disclaimer,
+#contact{
+
+    max-width:900px;
+
+    margin:0 auto;
+
+    padding:2rem 0;
+
+}
+
+#privacy h2,
+#terms h2,
+#disclaimer h2,
+#contact h2{
+
+    color:#14532d;
+
+    margin-bottom:1rem;
+
+}
+
+#privacy p,
+#terms p,
+#disclaimer p,
+#contact p{
+
+    line-height:1.9;
+
+    color:#374151;
+
+}
