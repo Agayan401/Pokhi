@@ -266,6 +266,7 @@ function buildSearchIndex(bird) {
 
 function scoreBird(bird, query) {
     if (!query) return 1;
+    const queryWords = tokenize(query);
     let score = 0;
 
     bird.searchIndex.english.full.forEach(name => {
@@ -274,17 +275,29 @@ function scoreBird(bird, query) {
         else if (name.includes(query)) score = Math.max(score, 50);
     });
 
-    bird.searchIndex.english.words.forEach(word => {
-        if (word === query) score = Math.max(score, 80);
-        else if (word.startsWith(query)) score = Math.max(score, 70);
-        else if (word.includes(query)) score = Math.max(score, 40);
+bird.searchIndex.english.words.forEach(word => {
+
+    queryWords.forEach(q => {
+
+        if (word === q) score += 40;
+        else if (word.startsWith(q)) score += 30;
+        else if (word.includes(q)) score += 15;
+
     });
 
-    bird.searchIndex.english.compounds.forEach(word => {
-        if (word === query) score = Math.max(score, 75);
-        else if (word.startsWith(query)) score = Math.max(score, 65);
-        else if (word.includes(query)) score = Math.max(score, 35);
+});
+
+bird.searchIndex.english.compounds.forEach(word => {
+
+    queryWords.forEach(q => {
+
+        if (word === q) score += 35;
+        else if (word.startsWith(q)) score += 25;
+        else if (word.includes(q)) score += 10;
+
     });
+
+});
 
     bird.searchIndex.assamese.full.forEach(name => {
         if (name.includes(query)) score = Math.max(score, 60);
