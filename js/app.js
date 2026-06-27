@@ -1050,3 +1050,26 @@ teamModal.onclick = (e) => {
         teamModal.style.display = "none";
     }
 };
+/* ==========================================
+   IMAGE PROTECTION
+========================================== */
+
+document.addEventListener("contextmenu", (e) => {
+
+    if (e.target.tagName === "IMG") {
+
+        e.preventDefault();
+
+    }
+
+});
+
+document.addEventListener("dragstart", (e) => {
+
+    if (e.target.tagName === "IMG") {
+
+        e.preventDefault();
+
+    }
+
+});
