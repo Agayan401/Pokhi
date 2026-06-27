@@ -48,7 +48,9 @@ function hideLoaderIfReady() {
         loader.classList.add("loader-hidden");
 
         // Always start from the top
-        window.scrollTo(0, 0);
+        if (!window.location.hash) {
+            window.scrollTo(0, 0);
+        }
 
         if (!slideshowStarted) {
             slideshowStarted = true;
