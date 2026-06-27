@@ -66,7 +66,7 @@
   {
     "id": "ashy-woodswallow",
     "name": "Ashy Woodswallow",
-    "assameseName": "বতাহী চৰাই",
+    "assameseName": "বতাহী চৰাই / আমচকা",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 18-19 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/ashy-woodswallow.avif"
@@ -386,7 +386,7 @@
   {
     "id": "brown-headed-gull",
     "name": "Brown Headed Gull",
-    "assameseName": "ৰামপৰা",
+    "assameseName": "ৰামপাৰ",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Winter Migrant on inland water bodies accross the state. The size of the bird is 40-44 cm. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/brown-headed-gull.avif"
@@ -394,7 +394,7 @@
   {
     "id": "blue-tailed-bee-eater",
     "name": "Blue-tailed Bee-eater",
-    "assameseName": "নীলানেজী জিঙাখাঁতী / জিঞা খাঁতী/ পাখি খোৱা / মাটি ভাটৌ",
+    "assameseName": "জিঙাখাঁতী / জিঞা খাঁতী/ পাখি খোৱা / মাটি ভাটৌ",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 23-30 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/blue-tailed-bee-eater.avif"
@@ -514,7 +514,7 @@
   {
     "id": "black-bittern",
     "name": "Black Bittern",
-    "assameseName": "কালিঘুঁকি",
+    "assameseName": "কলিয়ৰী / কালিঘুঁকি",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Resident and local migrant in reedbeds, heavily vegetated swamps, and flooded forests. The size of the bird is 48-65 cm. Medium-sized, dark heron with a long yellowish bill and yellow streaks down the neck. Dimorphism: Male is slaty-black above; female is noticeably browner and more heavily streaked on the underparts.",
     "image": "images/birds/black-bittern.avif"
@@ -682,7 +682,7 @@
   {
     "id": "common-merganser",
     "name": "Common Merganser",
-    "assameseName": "কঁকিল-দড়িয়া হাঁহ",
+    "assameseName": "কঁকিল-দড়িয়া হাঁহ / কঁকিলা-দড়িয়া হাঁহ",
     "iucnStatus": "LC",
     "description": "Assam Seasonality:Winter Migrant in Assam's diverse floodplains and near the forest layers. The size of the bird is 58-2 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/common-merganser.avif"
@@ -770,7 +770,7 @@
   {
     "id": "cattle-egret",
     "name": "Cattle Egret",
-    "assameseName": "গো বগ",
+    "assameseName": "গো-বগ / বগলী",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Common year-round resident; develops ornamental plumes in breeding season (May-Aug). The size of the bird is 46-56 cm. Long-legged, long-necked wading bird found around wetlands. Dimorphism: Sexes are generally identical.",
     "image": "images/birds/cattle-egret.avif"
@@ -946,7 +946,7 @@
   {
     "id": "dusky-eagle-owl",
     "name": "Dusky Eagle Owl",
-    "assameseName": "হুদুম",
+    "assameseName": "হুদুম/  হুদু",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Year-round resident near waterbodies, wooded ravines, and old grove plantations. The size of the bird is 50-58 cm. Large, formidable grey-brown owl with prominent ear tufts and dark brown eyes. Dimorphism: Monomorphic; sexes share the same dark-streaked, greyish plumage.",
     "image": "images/birds/dusky-eagle-owl.avif"
@@ -970,7 +970,7 @@
   {
     "id": "eurasian-hoopoe",
     "name": "Eurasian Hoopoe",
-    "assameseName": "ফণিকতৰা",
+    "assameseName": "কাঁকৈশিয়া/ ফণিকতৰা / গোবৰ-খোচৰা",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 25-32 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/eurasian-hoopoe.avif"
@@ -1250,7 +1250,7 @@
   {
     "id": "grey-peacock-pheasant",
     "name": "Grey Peacock Pheasant",
-    "assameseName": "কৃষ্ণ-ডৰিক",
+    "assameseName": "কৃষ্ণ ডৰিক /  দেও-দৰিক",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident in Assam's diverse forest layers. The size of the bird is 58-76 cm. Distinctive local avian species with regional field marks.Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/grey-peacock-pheasant.avif"
@@ -1282,7 +1282,7 @@
   {
     "id": "glossy-ibis",
     "name": "Glossy Ibis",
-    "assameseName": "কৃষ্ণ আকুহি বগ",
+    "assameseName": "কৃষ্ণ আকুহি বগ / আকুহি বগ",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 48-66 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/glossy-ibis.avif"
@@ -1306,7 +1306,7 @@
   {
     "id": "great-barbet",
     "name": "Great Barbet",
-    "assameseName": "বৰ হেটুলুকা",
+    "assameseName": "যম ডাকিনী  / বৰ হেটুলুকা",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Year-round resident in broadleaved foothill and montane forests; highly vocal with a wailing call. The size of the bird is 31-35 cm. Largest barbet; large pale bill, dark blue head, brown back, and yellow/green underparts. Dimorphism: Monomorphic; sexes look identical.",
     "image": "images/birds/great-barbet.avif"
@@ -1314,7 +1314,7 @@
   {
     "id": "golden-fronted-leafbird",
     "name": "Golden-fronted Leafbird",
-    "assameseName": "সোণ- কলালী পাত চৰাই",
+    "assameseName": "সোণ-কপালী পাত চৰাই",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 18-21 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/golden-fronted-leafbird.avif"
@@ -1442,7 +1442,7 @@
   {
     "id": "house-crow",
     "name": "House Crow",
-    "assameseName": "পতি কাউৰী",
+    "assameseName": "পাতি কাউৰী",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Common year-round resident. The size of the bird is 40-42 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/house-crow.avif"
@@ -1538,7 +1538,7 @@
   {
     "id": "indochinese-roller",
     "name": "Indochinese Roller",
-    "assameseName": "নীলকণ্ঠী",
+    "assameseName": "নীলকণ্ঠী / কাও চৰাই / কাও-চা",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 30-34 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/indochinese-roller.avif"
@@ -1634,7 +1634,7 @@
   {
     "id": "kalij-pheasant",
     "name": "Kalij Pheasant",
-    "assameseName": "দেও-দৰিক",
+    "assameseName": "দৰিক চৰাই",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: A common permanent resident in Assam's diverse forest layers. The size of the bird is 63-74 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/kalij-pheasant.avif"
@@ -1746,7 +1746,7 @@
   {
     "id": "lineated-barbet",
     "name": "Lineated Barbet",
-    "assameseName": "ঘং-কুলুং",
+    "assameseName": "ঘুং-কুলুং",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Widespread permanent resident; loud repetitive calls in spring/summer. The size of the bird is 29-33 cm. Chunky green forest bird with a heavy tufted bill and colorful head patterns. Dimorphism: Sexes are identical.",
     "image": "images/birds/lineated-barbet.avif"
@@ -2098,7 +2098,7 @@
   {
     "id": "pin-tailed-green-pigeon",
     "name": "Pin-tailed Green Pigeon",
-    "assameseName": "দীঘল নেজী হাইঠা",
+    "assameseName": "দীঘল নেজী হাইঠা / নেজাল হাইঠা",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Year-round resident across agricultural and forest zones. The size of the bird is 29-36 cm. Plump body, short neck, slender bill with a fleshy cere. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
     "image": "images/birds/pin-tailed-green-pigeon.avif"
@@ -2122,7 +2122,7 @@
   {
     "id": "pheasant-tailed-jacana",
     "name": "Pheasant-tailed Jacana",
-    "assameseName": "দলম'ৰা",
+    "assameseName": "দলম'ৰা / জলম'ৰা",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 31-58 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/pheasant-tailed-jacana.avif"
@@ -2466,7 +2466,7 @@
   {
     "id": "shikra",
     "name": "Shikra",
-    "assameseName": "বীৰ শেন",
+    "assameseName": "বাৰি শেন / চিকৰা চৰাই",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 26-30 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/shikra.avif"
@@ -2474,7 +2474,7 @@
   {
     "id": "spotted-dove",
     "name": "Spotted Dove",
-    "assameseName": "তিল কপৌ",
+    "assameseName": "কপৌ / তিল কপৌ",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Very common year-round resident across agricultural and forest zones. The size of the bird is 28-32 cm. Plump body, short neck, slender bill with a fleshy cere. Dimorphism: Most species are similar, though males can be slightly glossier or display more intense color patches.",
     "image": "images/birds/spotted-dove.avif"
@@ -2506,7 +2506,7 @@
   {
     "id": "small-pratincole",
     "name": "Small Pratincole",
-    "assameseName": "টীটীয়লী / সৰু বলিসংখ",
+    "assameseName": "টীটীয়লী / সৰু বলিশংখ",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 16-19 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/small-pratincole.avif"
@@ -2538,7 +2538,7 @@
   {
     "id": "streaked-spiderhunter",
     "name": "Streaked Spiderhunter",
-    "assameseName": "মকৰা খোৱা",
+    "assameseName": "মকৰা খোৱা / মকৰাখাঁতি",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 20-23 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
     "image": "images/birds/streaked-spiderhunter.avif"
@@ -2586,7 +2586,7 @@
   {
     "id": "spot-bellied-eagle-owl",
     "name": "Spot-bellied Eagle Owl",
-    "assameseName": "যম ডাকিনী / দুধকুশী হুদু",
+    "assameseName": "দুধকুশী হুদু / যম ডাকিনী",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Permanent nocturnal resident. The size of the bird is 50-65 cm. Nocturnal predator with a large facial disc, forward-facing eyes, and silent flight. Dimorphism: Plumage is identical; females are frequently larger and heavier.",
     "image": "images/birds/spot-bellied-eagle-owl.avif"
@@ -2810,7 +2810,7 @@
   {
     "id": "white-wagtail",
     "name": "White Wagtail",
-    "assameseName": "বগা বালিমাহী",
+    "assameseName": "বগা বালিমাহী / বালিমাহী",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: Mostly winter visitors (Oct-April) found in grasslands and riverbanks. The size of the bird is 14-19 cm. Slender terrestrial bird that walks on the ground and constantly pumps its tail. Dimorphism: Sexes are largely identical.",
     "image": "images/birds/white-wagtail.avif"
