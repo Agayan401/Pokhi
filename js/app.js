@@ -963,12 +963,31 @@ function updateHeroImagePositions() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+const loader = document.getElementById("loader");
+
+if (sessionStorage.getItem("loaderShown")) {
+
+    animationFinished = true;
+    heroImagesLoaded = true;
+
+    loader.classList.add("loader-hidden");
+
+    initHeroSlideshow();
+
+} else {
+
+    sessionStorage.setItem("loaderShown", "true");
+
     startLoaderAnimation();
+
     preloadHeroImages().then(() => {
         heroImagesLoaded = true;
         hideLoaderIfReady();
     });
-    loadBirds();
+
+}
+
+loadBirds();
 });
 
 /* ==========================================
@@ -1031,21 +1050,3 @@ teamModal.onclick = (e) => {
         teamModal.style.display = "none";
     }
 };
-
-/* ==========================================
-   SCROLL TO HASH AFTER PAGE LOAD
-========================================== */
-
-window.addEventListener("load", () => {
-    if (!window.location.hash) return;
-    const target = document.querySelector(window.location.hash);
-    if (!target) return;
-
-    setTimeout(() => {
-        const y = target.getBoundingClientRect().top + window.pageYOffset - 100;
-        window.scrollTo({
-            top: y,
-            behavior: "smooth"
-        });
-    }, 300);
-});
