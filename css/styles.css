@@ -2987,3 +2987,39 @@ MOBILE
     color:#374151;
 
 }
+/* ==========================
+   LEGAL PAGE MOBILE FIX
+========================== */
+
+@media (max-width: 768px) {
+
+    #privacy,
+    #terms,
+    #disclaimer,
+    #contact {
+
+        padding: 1.5rem 0;
+
+    }
+
+    #privacy h2,
+    #terms h2,
+    #disclaimer h2,
+    #contact h2 {
+
+        font-size: 1.5rem;
+
+    }
+
+    #privacy p,
+    #terms p,
+    #disclaimer p,
+    #contact p {
+
+        font-size: 1rem;
+
+        line-height: 1.8;
+
+    }
+
+}
