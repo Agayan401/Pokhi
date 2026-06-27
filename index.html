@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokkhi | The Birds of Assam</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+    <div id="loader">
+        <div class="loader-gradient"></div>
+        <div class="loader-mist"></div>
+        <div class="loader-content">
+            <img src="images/logo_transparent.webp" class="loader-logo" alt="Pokkhi">
+            <div id="loaderAction">Exploring...</div>
+            <div class="loader-text-wrapper">
+                <div id="loaderPlace">the forests of Assam</div>
+            </div>
+            <div class="loader-progress">
+                <div id="loaderProgress"></div>
+            </div>
+        </div>
+    </div>
+
+    <nav class="navbar">
+        <div class="logo">
+            <a href="#">
+                <img src="images/logo_navbar.webp" alt="">
+            </a>
+        </div>
+        <div class="navbar-title">
+            <img src="images/logo_text.webp" alt=" Birds of Assam">
+        </div>
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <ul class="nav-links" id="navLinks">
+            <li><a href="#">Home</a></li>
+            <li><a href="#directory">Directory</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="anatomy.html">ID Guide</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-slideshow" id="heroSlideshow"></div>
+        <div class="overlay">
+            <div class="hero-content">
+                <img src="images/logo.webp" alt=" | Birds of Assam" class="hero-logo">
+                <p class="hero-text">
+                    Explore Assam's avian diversity through Assamese names,
+                    photographs and conservation information.
+                </p>
+                <div class="search-wrapper">
+                    <input type="text" id="searchInput" placeholder="Search birds (English / অসমীয়া)...">
+                    <div id="suggestions" class="suggestions"></div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="directory-summary">
+        <div class="summary-card">
+            <h2 id="speciesCount">0</h2>
+            <p class="summary-title">Species in Directory</p>
+            <p class="last-updated">
+                Updated
+                <span id="lastUpdated">June 2025</span>
+            </p>
+            <div class="status-bar">
+                <div id="barLC" class="status-segment lc"></div>
+                <div id="barNT" class="status-segment nt"></div>
+                <div id="barVU" class="status-segment vu"></div>
+                <div id="barEN" class="status-segment en"></div>
+                <div id="barCR" class="status-segment cr"></div>
+            </div>
+            <div class="status-legend">
+                <span id="countLC">LC 0</span>
+                <span id="countNT">NT 0</span>
+                <span id="countVU">VU 0</span>
+                <span id="countEN">EN 0</span>
+                <span id="countCR">CR 0</span>
+            </div>
+        </div>
+    </section>
+
+    <section class="homepage-panels">
+        <div class="about-panel" id="about">
+            <h2>About</h2>
+            <p>
+                The skies of Assam are filled with incredible
+                birdlife, yet information about these birds is often scattered
+                across field guides, scientific publications
+                and online resources. Local Assamese names
+                are particularly difficult to find, despite
+                being an important part of the region's
+                natural and cultural heritage.
+            </p>
+            <p>
+                To celebrate and preserve this heritage,
+                brings together Assamese names, bird photographs,
+                conservation status and basic identification information
+                into a single accessible directory.
+                By combining visual documentation with
+                local nomenclature, the platform serves
+                as a valuable resource for birdwatchers,
+                photographers, students, educators,
+                researchers and anyone interested in
+                Assam's rich avian diversity.
+            </p>
+            <p>
+                Whether you are identifying a bird,
+                learning its Assamese name, or exploring
+                Assam's remarkable avian diversity,
+                aims to make the birds of Assam
+                easier to discover, understand and
+                appreciate. We invite you to explore
+                and celebrate the rich birdlife
+                of Assam, one species at a time.
+            </p>
+            <div class="about-mini-stats">
+                <div class="about-stat">
+                    <strong id="aboutSpeciesCount">0+</strong>
+                    <span>Species</span>
+                </div>
+                <div class="about-stat">
+                    <strong id="aboutAssameseCount">0+</strong>
+                    <span>Assamese Names</span>
+                </div>
+                <div class="about-stat">
+                    <strong id="aboutStatusCount">5</strong>
+                    <span>IUCN Categories</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="bird-of-day-panel">
+            <h2>Bird of the Day</h2>
+            <div id="birdOfDay"></div>
+        </div>
+    </section>
+
+    <section class="directory" id="directory">
+        <h2>Bird Directory</h2>
+        <div class="directory-controls">
+            <div class="directory-search search-wrapper">
+                <input type="text" id="directorySearchInput" placeholder="Search birds by English or Assamese name...">
+                <div id="directorySuggestions" class="suggestions"></div>
+            </div>
+            <button id="resetSearchBtn" class="reset-search-btn" style="display:none;">
+                Show All Birds
+            </button>
+            <select id="statusFilter">
+                <option value="All">All Status</option>
+                <option value="LC">Least Concern</option>
+                <option value="NT">Near Threatened</option>
+                <option value="VU">Vulnerable</option>
+                <option value="EN">Endangered</option>
+                <option value="CR">Critically Endangered</option>
+            </select>
+        </div>
+        <p id="resultCount"></p>
+        <div id="birdGrid"></div>
+        <p id="speciesProgress"></p>
+        <div class="load-more-container">
+            <button id="loadMoreBtn">Load More Birds</button>
+        </div>
+    </section>
+
+    <div id="birdModal" class="modal">
+        <div class="modal-content">
+            <span id="closeModal">&times;</span>
+            <div class="modal-layout">
+                <div class="modal-image">
+                    <img id="modalImageBlur" class="modal-image-blur" src="" alt="">
+                    <img id="modalImage" class="modal-image-main" src="" alt="Bird">
+                </div>
+                <div class="modal-details">
+                    <h2 id="modalName"></h2>
+                    <p id="modalAssamese"></p>
+                    <p id="modalStatus"></p>
+                    <hr>
+                    <p id="modalDescription"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="contribute-section" id="contribute">
+        <div class="contribute-card">
+            <h2>Help Grow — Suggest a Bird</h2>
+            <p class="contribute-intro">
+                Know a bird that isn't yet listed in the directory?
+                Submit it and help document Assam's avian heritage.
+            </p>
+            <form id="birdSuggestionForm">
+                <div class="form-group">
+                    <label>English Name <span class="required">*</span></label>
+                    <input type="text" id="englishName" placeholder="e.g. Indian Pied Starling">
+                </div>
+                <div class="form-group">
+                    <label>Assamese Name <span class="required">*</span></label>
+                    <input type="text" id="assameseName" placeholder="e.g. কাণ-কুৰিকা" required>
+                </div>
+                <div class="form-group">
+                    <label>Location <span class="required">*</span></label>
+                    <input type="text" id="location" placeholder="e.g. Tezpur" required>
+                </div>
+                <div class="form-group">
+                    <label>Notes (Optional)</label>
+                    <textarea id="notes" rows="4" placeholder="Any additional information..."></textarea>
+                </div>
+                <div class="form-group">
+                    <label>Contributor Name <span class="required">*</span></label>
+                    <input type="text" id="contributorName" placeholder="Your name" required>
+                </div>
+                <p class="contribution-note">
+                    <strong>Note:</strong>
+                    Every submission is reviewed. Once approved, the bird information and the contributor's name will be displayed on Pokkhi
+                </p>
+                <button type="submit" class="contribute-btn">Submit Suggestion</button>
+                <p id="formMessage"></p>
+            </form>
+        </div>
+    </section>
+
+    <div id="teamModal" class="team-modal">
+        <div class="team-modal-content">
+            <span id="closeTeamModal">&times;</span>
+            <img id="teamPhoto" src="" alt="">
+            <h2 id="teamName"></h2>
+            <p id="teamBio"></p>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <img src="images/logo.webp" alt="Pokkhi">
+                <p>
+                    A growing directory documenting the birds of Assam through
+                    Assamese names, photographs and conservation information.
+                </p>
+            </div>
+            <div class="footer-links">
+                <h4>Explore</h4>
+                <a href="#directory">Bird Directory</a>
+                <a href="#about">About Pokkhi</a>
+                <a href="anatomy.html">Bird ID Guide</a>
+                <a href="#contribute">Suggest a Bird</a>
+            </div>
+            <div class="footer-partners">
+                <h4>In collaboration with:</h4>
+                <div class="partner-logos">
+                    <img src="images/partner1.png">
+                    <img src="images/partner2.png">
+                </div>
+            </div>
+        </div>
+        <div class="footer-about-team">
+            <p class="team-tagline">
+                Made with patience, curiosity
+                and countless days in the field.
+            </p>
+            <p class="team-text">
+                Pokkhi is a collaborative effort by
+                <span class="team-member" data-member="chirantanu-saikia">Chirantanu Saikia</span>
+                and
+                <span class="team-member" data-member="abhilash-gayan">Abhilash Gayan</span>,
+                created with a shared passion for the birds of Assam
+                and a vision to make reliable information accessible
+                to everyone.
+            </p>
+        </div>
+        <div class="footer-bottom">
+            © 2026 Pokkhi
+        </div>
+    </footer>
+
+    <script src="js/searchEngine.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+
+</html>
