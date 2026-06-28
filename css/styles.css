@@ -562,12 +562,11 @@ p {
 
     margin: 0 auto;
 
-    padding: 1rem 1rem 4rem;
+    padding: 1rem 1rem 2rem;
 
     display: grid;
 
-    grid-template-columns:
-        1.4fr 1fr;
+    grid-template-columns: 1.4fr 1fr;
 
     gap: 2rem;
 }
@@ -766,7 +765,7 @@ p {
 
     margin: auto;
 
-    padding: 4rem 1rem;
+    padding: 2.5rem 1rem 4rem;
 }
 
 .directory h2 {
@@ -1821,37 +1820,50 @@ p {
     font-size: 0.95rem;
 }
 
-    .hero {
+    /* =========================
+   MOBILE HERO
+========================= */
 
-        height: 70vh;
-    }
-    .hero-content {
+.hero {
 
-    padding-top: 110px;
+    position: relative;
 
-    padding-bottom: 40px;
+    height: 720px;
+
+    min-height: 720px;
+
+    max-height: 720px;
+
+    display: flex;
+
+    justify-content: flex-start;
+
+    align-items: flex-start;
 }
 
-    .hero h1 {
+.hero-content {
 
-        font-size: 3rem;
-    }
+    position: absolute;
 
-    .subtitle {
+    inset: 0;
 
-        font-size: 1.1rem;
-    }
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    padding: 250px 20px 40px;
+}
+
 .hero-logo {
-
-    display: block;
+    position: absolute;
+    top: 60px;          /* adjust later if needed */
+    left: 50%;
+    transform: translateX(-50%);
 
     width: 130px;
-
-    max-width: 45%;
-
-    margin: 0 auto 1.2rem;
-
-    transform: translateY(-150px);
+    max-width: 42%;
 
     filter: drop-shadow(0 6px 20px rgba(0,0,0,.35));
 }
@@ -1862,12 +1874,22 @@ p {
 
     font-weight: 500;
 
-    margin-bottom: 30px;
+    line-height: 1.7;
+
+    text-align: center;
+
+    max-width: 92%;
+
+    margin: 0 0 38px;
 }
 
 .search-wrapper {
 
-    margin-top: 20px;
+    width: 100%;
+
+    max-width: 92%;
+
+    margin: 0;
 }
 
     .summary-card {
