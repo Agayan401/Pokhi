@@ -272,12 +272,12 @@
     "image": "images/birds/brown-hawk-owl.avif"
   },
   {
-    "id": "brahmini-kite",
-    "name": "Brahmini Kite",
+    "id": "brahiminy-kite",
+    "name": "Brahiminy Kite",
     "assameseName": "ধুবুনী চিলনী / ৰঙা চিলনী",
     "iucnStatus": "LC",
     "description": "Assam Seasonality: A rare resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 44-52 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
-    "image": "images/birds/brahmini-kite.avif"
+    "image": "images/birds/brahiminy-kite.avif"
   },
   {
     "id": "bengal-bushlark",
@@ -1480,12 +1480,12 @@
     "image": "images/birds/hume-s-lark.avif"
   },
   {
-    "id": "himalayan-griffon-vulture",
-    "name": "Himalayan griffon Vulture",
+    "id": "himalayan-griffon",
+    "name": "Himalayan griffon",
     "assameseName": "জপৰা শগুণ / হিমালয়ৰ শগুন / বৰ শগুণ",
     "iucnStatus": "NT",
     "description": "Assam Seasonality: Active year-round resident or seasonal migrant in Assam's diverse floodplains and forest layers. The size of the bird is 95-130 cm. Distinctive local avian species with regional field marks. Dimorphism: Sexes vary; males frequently show brighter plumage during the spring breeding cycle.",
-    "image": "images/birds/himalayan-griffon-vulture.avif"
+    "image": "images/birds/himalayan-griffon.avif"
   },
   {
     "id": "himalayan-prinia",
@@ -2625,7 +2625,7 @@
   },
   {
     "id": "sarus-crane",
-    "name": "Sarus Crane",
+    "name": "Sarus Crane (Extinct from here)",
     "assameseName": "খোৰচেং",
     "iucnStatus": "VU",
     "description": "Assam Seasonality: Rare migrant in open wetlands and agricultural fields. The size of the bird is 152-180 cm. The world's tallest flying bird; overall light grey body with a stark, naked red head and upper neck, and long pink legs. Dimorphism: Plumage is identical; males are noticeably taller and heavier than females.",
