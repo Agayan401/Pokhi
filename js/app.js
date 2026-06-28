@@ -49,10 +49,12 @@ function hideLoaderIfReady() {
         loader.classList.add("loader-hidden");
         startHeroSlideshow();
 
-        // Always start from the top
-        if (!window.location.hash) {
-            window.scrollTo(0, 0);
-        }
+        // Start from the top only if no pending scroll was requested
+const params = new URLSearchParams(window.location.search);
+
+if (!window.location.hash && !params.has("scroll")) {
+    window.scrollTo(0, 0);
+}
     }
 }
 
@@ -394,6 +396,7 @@ async function loadBirds() {
 
         birdsLoaded = true;
         hideLoaderIfReady();
+        handlePendingScroll();
     } catch (error) {
         console.error("Error loading bird data:", error);
     }
@@ -1038,6 +1041,7 @@ if (sessionStorage.getItem("loaderShown")) {
 startHeroSlideshow();
 
 loadBirds();
+   
 
 } else {
 
@@ -1057,11 +1061,47 @@ preloadHeroImages().then(() => {
 startLoaderAnimation();
 
 loadBirds();
+   handlePendingScroll();
 
 }
 
 });
+function handlePendingScroll() {
 
+    const params = new URLSearchParams(window.location.search);
+
+    const target = params.get("scroll");
+
+    if (!target) return;
+
+    const waitForElement = () => {
+
+        const element = document.getElementById(target);
+
+        if (element) {
+
+            element.scrollIntoView({
+                behavior: "smooth",
+                block: "start"
+            });
+
+            window.history.replaceState(
+                {},
+                "",
+                window.location.pathname
+            );
+
+        } else {
+
+            requestAnimationFrame(waitForElement);
+
+        }
+
+    };
+
+    requestAnimationFrame(waitForElement);
+
+}
 /* ==========================================
    MOBILE NAVIGATION
 ========================================== */
