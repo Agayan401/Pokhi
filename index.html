@@ -11,7 +11,7 @@
 
 <body>
 
-    <div id="loader">
+    <div id="loader" class="loader-hidden">
         <div class="loader-gradient"></div>
         <div class="loader-mist"></div>
         <div class="loader-content">
@@ -303,8 +303,15 @@
         </div>
     </footer>
 
-    <script src="js/searchEngine.js"></script>
-    <script src="js/app.js"></script>
+<script src="js/searchEngine.js"></script>
+
+<script>
+if (!sessionStorage.getItem("loaderShown")) {
+    document.getElementById("loader").classList.remove("loader-hidden");
+}
+</script>
+
+<script src="js/app.js"></script>
 
 </body>
 
