@@ -1584,7 +1584,7 @@ p {
 }
 
 /* Assam Bird Monitoring Network */
-.partner-logos img:first-child {
+.partner-logos img:nth-child(1) {
 
     max-height: 110px;
 
@@ -1592,7 +1592,15 @@ p {
 }
 
 /* Wild Heart Foundation */
-.partner-logos img:last-child {
+.partner-logos img:nth-child(2) {
+
+    max-height: 90px;
+
+    max-width: 240px;
+}
+
+/* The Vulture Network */
+.partner-logos img:nth-child(3) {
 
     max-height: 90px;
 
