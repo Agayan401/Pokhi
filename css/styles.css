@@ -939,15 +939,40 @@ p {
 
     .directory-controls{
 
+        display:flex;
+
         flex-direction:column;
 
         align-items:stretch;
+
+        width:100%;
+
+        max-width:100%;
+
+        gap:14px;
+    }
+
+    .directory-search{
+
+        width:100%;
+
+        max-width:100%;
+
+        flex:none;
+    }
+
+    #directorySearchInput{
+
+        width:100%;
     }
 
     #statusFilter{
 
         width:100%;
+
+        max-width:100%;
     }
+
 }
 
 /* =========================
