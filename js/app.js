@@ -17,10 +17,10 @@ const loaderSteps = [
 ];
 
 const preloadImages = [
-    "images/hero1.avif",
-    "images/hero2.avif",
-    "images/hero3.avif",
-    "images/hero4.avif"
+    "images/hero/hero1.avif",
+    "images/hero/hero2.avif",
+    "images/hero/hero3.avif",
+    "images/hero/hero4.avif"
 ];
 
 function preloadHeroImages() {
@@ -53,11 +53,9 @@ function hideLoaderIfReady() {
         }
 
         if (!slideshowStarted) {
-            slideshowStarted = true;
-            setTimeout(() => {
-                initHeroSlideshow();
-            }, 500);
-        }
+    slideshowStarted = true;
+    initHeroSlideshow();
+}
     }
 }
 
