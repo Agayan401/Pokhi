@@ -599,8 +599,15 @@ matches.sort((a, b) => {
 
     // Clear the search box after the search has been applied
     setTimeout(() => {
-        targetInput.value = "";
-    }, 100);
+
+    targetInput.value = "";
+
+    targetBox.innerHTML = "";
+    targetBox.style.display = "none";
+
+    targetInput.blur();
+
+}, 100);
 
     const directory = document.getElementById("directory");
 
@@ -655,10 +662,22 @@ function performSearch() {
     }, 100);
 
     setTimeout(() => {
+
     searchInput.value = "";
     if (directorySearchInput) {
         directorySearchInput.value = "";
     }
+
+    suggestionsBox.style.display = "none";
+    if (directorySuggestionsBox) {
+        directorySuggestionsBox.style.display = "none";
+    }
+
+    searchInput.blur();
+    if (directorySearchInput) {
+        directorySearchInput.blur();
+    }
+
 }, 500);
 }
 
