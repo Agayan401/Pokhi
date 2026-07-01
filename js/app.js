@@ -590,20 +590,44 @@ matches.sort((a, b) => {
         `;
 
         item.addEventListener("click", () => {
-            targetInput.value = bird.name;
-            targetBox.style.display = "none";
-            filterBirds();
-            requestAnimationFrame(() => {
-                const selectedCard = document.querySelector(`[data-bird-id="${bird.id}"]`);
-                if (selectedCard) {
-                    selectedCard.scrollIntoView({ behavior: "smooth", block: "start" });
-                    selectedCard.classList.add("search-focus");
-                    setTimeout(() => {
-                        selectedCard.classList.remove("search-focus");
-                    }, 1500);
-                }
+
+    targetInput.value = bird.name;
+
+    targetBox.style.display = "none";
+
+    filterBirds();
+
+    const directory = document.getElementById("directory");
+
+    directory.scrollIntoView({
+        behavior: "smooth",
+        block: "start"
+    });
+
+    setTimeout(() => {
+
+        const selectedCard = document.querySelector(
+            `[data-bird-id="${bird.id}"]`
+        );
+
+        if (selectedCard) {
+
+            selectedCard.scrollIntoView({
+                behavior: "smooth",
+                block: "start"
             });
-        });
+
+            selectedCard.classList.add("search-focus");
+
+            setTimeout(() => {
+                selectedCard.classList.remove("search-focus");
+            }, 1500);
+
+        }
+
+    }, 400);
+
+});
         targetBox.appendChild(item);
     });
 
