@@ -597,6 +597,11 @@ matches.sort((a, b) => {
 
     filterBirds();
 
+    // Clear the search box after the search has been applied
+    setTimeout(() => {
+        targetInput.value = "";
+    }, 100);
+
     const directory = document.getElementById("directory");
 
     directory.scrollIntoView({
@@ -650,8 +655,11 @@ function performSearch() {
     }, 100);
 
     setTimeout(() => {
-        searchInput.value = "";
-    }, 500);
+    searchInput.value = "";
+    if (directorySearchInput) {
+        directorySearchInput.value = "";
+    }
+}, 500);
 }
 
 function filterBirds() {
